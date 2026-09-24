@@ -1,83 +1,50 @@
-W25vdGVzLm1kXShodHRwczovL2dpdGh1Yi5jb20vdXNlci1hdHRhY2htZW50
-cy9maWxlcy8zMjAxODUzMC9ub3Rlcy5tZCkjIERheSA0MSDigJQgU1FMOiBD
-QVNFIFdIRU4sIERhdGUgJiBTdHJpbmcgRnVuY3Rpb25zCgojIyBRdWljayBP
-dmVydmlldwotIFRvcGljOiBjb25kaXRpb25hbCBsb2dpYyAoYENBU0UgV0hF
-TmApIHBsdXMgZGF0ZSBhbmQgc3RyaW5nIGZ1bmN0aW9ucyBpbiBTUUxpdGUu
-Ci0gV2hhdCBJIGxlYXJuZWQ6IGhvdyB0byBidWNrZXQgYW5kIHJlc2hhcGUg
-ZGF0YSBpbnNpZGUgYSBzaW5nbGUgcXVlcnksIGdyb3VwIHJlY29yZHMgYnkg
-bW9udGgsIGFuZCBjbGVhbi9jb21iaW5lIHRleHQgY29sdW1ucyDigJQgbm8g
-c3VicXVlcmllcyBuZWVkZWQuCi0gVG9vbHM6IFNRTGl0ZSwgREIgQnJvd3Nl
-ciBmb3IgU1FMaXRlLCBGQyBMYWhvcmUgTGlvbnMgc2NoZW1hIChgdGVhbXNg
-LCBgcGxheWVyc2AsIGBtYXRjaGVzYCwgYG1hdGNoX3N0YXRzYCkuCgojIyBJ
-bnRyb2R1Y3Rpb24KYENBU0UgV0hFTmAgaXMgU1FMJ3MgdmVyc2lvbiBvZiBh
-biBpZi9lbHNlIHN0YXRlbWVudC4gQ29tYmluZWQgd2l0aCBkYXRlIGFuZCBz
-dHJpbmcgZnVuY3Rpb25zLCBpdCdzIHRoZSB0b29sa2l0IGJlaGluZCBtb3N0
-IHJlYWwtd29ybGQgcmVwb3J0aW5nIHF1ZXJpZXMg4oCUIG1vbnRobHkgc2Fs
-ZXMgYnJlYWtkb3ducywgc3RhdHVzLWJhc2VkIHBpdm90cywgY2xlYW5lZC11
-cCBsYWJlbHMgZm9yIGRhc2hib2FyZHMuCgojIyBEZWZpbml0aW9ucwotICoq
-Q0FTRSBXSEVOKio6IGEgY29uZGl0aW9uYWwgZXhwcmVzc2lvbiB0aGF0IHJl
-dHVybnMgZGlmZmVyZW50IHZhbHVlcyBkZXBlbmRpbmcgb24gd2hpY2ggY29u
-ZGl0aW9uIG1hdGNoZXMgZmlyc3QuCi0gKipDb25kaXRpb25hbCBhZ2dyZWdh
-dGlvbioqOiB3cmFwcGluZyBgQ0FTRSBXSEVOYCBpbnNpZGUgYW4gYWdncmVn
-YXRlIGZ1bmN0aW9uIChsaWtlIGBTVU1gIG9yIGBDT1VOVGApIHRvIHR1cm4g
-cm93LWxldmVsIGNvbmRpdGlvbnMgaW50byBwaXZvdC1zdHlsZSBzdW1tYXJ5
-IGNvbHVtbnMuCi0gKipzdHJmdGltZSgpKio6IFNRTGl0ZSdzIGRhdGUtZm9y
-bWF0dGluZyBmdW5jdGlvbiwgdXNlZCB0byByZXNoYXBlIGEgZnVsbCBkYXRl
-IGludG8gYSBjb2Fyc2VyIHVuaXQgbGlrZSB5ZWFyLW1vbnRoLgotICoqU3Ry
-aW5nIGZ1bmN0aW9ucyoqOiBgU1VCU1RSKClgLCBgVVBQRVIoKWAsIGBMT1dF
-UigpYCBmb3IgdGV4dCBtYW5pcHVsYXRpb24sIGFuZCBgfHxgIGZvciBjb25j
-YXRlbmF0aW9uLgoKIyMgSW1wb3J0YW50IENvbmNlcHRzCi0gYENBU0UgV0hF
-TmAgY2hlY2tzIGNvbmRpdGlvbnMgdG9wIHRvIGJvdHRvbSBhbmQgc3RvcHMg
-YXQgdGhlIGZpcnN0IG1hdGNoIOKAlCBvcmRlciBtYXR0ZXJzLgotIEFsd2F5
-cyBpbmNsdWRlIGFuIGBFTFNFYCBicmFuY2ggc28gbm8gcm93IGZhbGxzIHRo
-cm91Z2ggd2l0aCBhIGBOVUxMYC4KLSBgU1VNKENBU0UgV0hFTiBjb25kaXRp
-b24gVEhFTiAxIEVMU0UgMCBFTkQpYCBpcyB0aGUgc3RhbmRhcmQgcGF0dGVy
-biBmb3IgY291bnRpbmcgcm93cyB0aGF0IG1lZXQgYSBjb25kaXRpb24sIGFu
-ZCBpdCBjYW4gcnVuIGFsb25nc2lkZSBvdGhlciBhZ2dyZWdhdGVzIGluIHRo
-ZSBzYW1lIGBHUk9VUCBCWWAuCi0gYHN0cmZ0aW1lKCclWS0lbScsIGRhdGVf
-Y29sdW1uKWAgdHJ1bmNhdGVzIGEgZGF0ZSBkb3duIHRvIHllYXItbW9udGgs
-IHdoaWNoIGlzIHRoZSBrZXkgdG8gdGltZS1iYXNlZCBncm91cGluZyBpbiBT
-UUxpdGUgKHdoaWNoIGhhcyBubyBuYXRpdmUgYERBVEVfVFJVTkNgKS4KLSBg
-fHxgIGNvbmNhdGVuYXRlcyBzdHJpbmdzIGluIFNRTGl0ZSAobm90IGArYCwg
-d2hpY2ggaXMgYXJpdGhtZXRpYykuCgojIyBTdGVwLWJ5LVN0ZXAgRXhwbGFu
-YXRpb24KMS4gV3JpdGUgdGhlIGJhc2UgYFNFTEVDVGAgYW5kIGBGUk9NYC4K
-Mi4gQWRkIGEgYENBU0UgV0hFTiAuLi4gVEhFTiAuLi4gRUxTRSAuLi4gRU5E
-YCBleHByZXNzaW9uIGFzIGEgY29tcHV0ZWQgY29sdW1uLCBvciB3cmFwIGl0
-IGluc2lkZSBgU1VNKClgL2BDT1VOVCgpYCBmb3IgY29uZGl0aW9uYWwgYWdn
-cmVnYXRpb24uCjMuIEZvciBkYXRlIGdyb3VwaW5nLCB3cmFwIHRoZSBkYXRl
-IGNvbHVtbiBpbiBgc3RyZnRpbWUoJyVZLSVtJywgY29sdW1uKWAgYW5kIHVz
-ZSB0aGF0IGV4cHJlc3Npb24gaW4gYm90aCBgU0VMRUNUYCBhbmQgYEdST1VQ
-IEJZYC4KNC4gRm9yIHRleHQgY2xlYW51cCwgYXBwbHkgYFNVQlNUUigpYCwg
-YFVQUEVSKClgLCBgTE9XRVIoKWAsIG9yIGB8fGAgZGlyZWN0bHkgaW4gdGhl
-IGBTRUxFQ1RgIGxpc3QuCjUuIENvbWJpbmUgYm90aCBwYXR0ZXJucyAoY29u
-ZGl0aW9uYWwgYWdncmVnYXRpb24gKyBkYXRlIGdyb3VwaW5nKSBmb3IgYSBz
-aW5nbGUtcXVlcnkgcmVwb3J0LgoKIyMgRXhhbXBsZXMKU2VlIGBkYXlfNDFf
-Y2FzZV93aGVuX2RhdGVfc3RyaW5nLnNxbGAgZm9yIGFsbCA2IHJ1bm5hYmxl
-IGV4YW1wbGVzOiB2YWx1ZSBidWNrZXRpbmcsIGNvbmRpdGlvbmFsIGFnZ3Jl
-Z2F0aW9uLCBkYXRlIGdyb3VwaW5nLCBzdHJpbmcgY2xlYW51cCwgY29uY2F0
-ZW5hdGlvbiwgYW5kIHRoZSBjb21iaW5lZCBtb250aGx5IHJlcG9ydC4KCiMj
-IENvbW1vbiBNaXN0YWtlcwotIEZvcmdldHRpbmcgdGhlIGBFTFNFYCBicmFu
-Y2ggaW4gYENBU0UgV0hFTmAsIGxlYXZpbmcgdW5tYXRjaGVkIHJvd3MgYXMg
-YE5VTExgLgotIFVzaW5nIGArYCBpbnN0ZWFkIG9mIGB8fGAgdG8gY29uY2F0
-ZW5hdGUgc3RyaW5ncyBpbiBTUUxpdGUuCi0gVHJ5aW5nIHRvIGBHUk9VUCBC
-WWAgdGhlIHJhdyBkYXRlIGNvbHVtbiBpbnN0ZWFkIG9mIHRoZSBgc3RyZnRp
-bWUoKWAgZXhwcmVzc2lvbiwgd2hpY2ggcHJvZHVjZXMgb25lIGdyb3VwIHBl
-ciBleGFjdCB0aW1lc3RhbXAgaW5zdGVhZCBvZiBwZXIgbW9udGguCgojIyBJ
-bnRlcnZpZXcgUXVlc3Rpb25zCi0gSG93IHdvdWxkIHlvdSBjYWxjdWxhdGUg
-dGhlIG51bWJlciBvZiAicGFpZCIgdnMgInVucGFpZCIgb3JkZXJzIGluIG9u
-ZSBxdWVyeSB3aXRob3V0IHJ1bm5pbmcgdHdvIHNlcGFyYXRlIHF1ZXJpZXM/
-Ci0gV2hhdCdzIHRoZSBkaWZmZXJlbmNlIGJldHdlZW4gZmlsdGVyaW5nIHJv
-d3Mgd2l0aCBgV0hFUkVgIGFuZCBidWNrZXRpbmcgdGhlbSB3aXRoIGBDQVNF
-IFdIRU5gPwotIEhvdyBkbyB5b3UgZ3JvdXAgdGltZXN0YW1wZWQgZGF0YSBi
-eSBtb250aCBpbiBTUUxpdGUgc3BlY2lmaWNhbGx5IChhcyBvcHBvc2VkIHRv
-IFBvc3RncmVzL015U1FMKT8KCiMjIEtleSBUYWtlYXdheXMKLSBgQ0FTRSBX
-SEVOYCB0dXJucyByb3ctbGV2ZWwgY29uZGl0aW9ucyBpbnRvIG5ldyBjb2x1
-bW5zIG9yIHBpdm90LXN0eWxlIGFnZ3JlZ2F0ZXMuCi0gYHN0cmZ0aW1lKClg
-IGlzIHRoZSBTUUxpdGUtc3BlY2lmaWMgd2F5IHRvIGdyb3VwIGRhdGEgYnkg
-dGltZSBwZXJpb2QuCi0gU3RyaW5nIGZ1bmN0aW9ucyBjbGVhbiBhbmQgY29t
-YmluZSB0ZXh0IHdpdGhvdXQgbGVhdmluZyBTUUwuCgojIyBTdW1tYXJ5ClRv
-ZGF5IGNvbWJpbmVkIGNvbmRpdGlvbmFsIGxvZ2ljIHdpdGggZGF0ZSBhbmQg
-c3RyaW5nIGZ1bmN0aW9ucyB0byB3cml0ZSBzaW5nbGUtcXVlcnkgcmVwb3J0
-cyDigJQgdGhlIGV4YWN0IHF1ZXJ5IHNoYXBlIHVzZWQgaW4gZGF5LXRvLWRh
-eSByZXBvcnRpbmcgYW5kIGRhc2hib2FyZCB3b3JrLCBhbmQgbm93IGRlbW9u
-c3RyYXRlZCBvbiB0aGUgRkMgTGFob3JlIExpb25zIGRhdGFzZXQuCg==
+[notes.md](https://github.com/user-attachments/files/32018530/notes.md)# Day 41 — SQL: CASE WHEN, Date & String Functions
+
+## Quick Overview
+- Topic: conditional logic (`CASE WHEN`) plus date and string functions in SQLite.
+- What I learned: how to bucket and reshape data inside a single query, group records by month, and clean/combine text columns — no subqueries needed.
+- Tools: SQLite, DB Browser for SQLite, FC Lahore Lions schema (`teams`, `players`, `matches`, `match_stats`).
+
+## Introduction
+`CASE WHEN` is SQL's version of an if/else statement. Combined with date and string functions, it's the toolkit behind most real-world reporting queries — monthly sales breakdowns, status-based pivots, cleaned-up labels for dashboards.
+
+## Definitions
+- **CASE WHEN**: a conditional expression that returns different values depending on which condition matches first.
+- **Conditional aggregation**: wrapping `CASE WHEN` inside an aggregate function (like `SUM` or `COUNT`) to turn row-level conditions into pivot-style summary columns.
+- **strftime()**: SQLite's date-formatting function, used to reshape a full date into a coarser unit like year-month.
+- **String functions**: `SUBSTR()`, `UPPER()`, `LOWER()` for text manipulation, and `||` for concatenation.
+
+## Important Concepts
+- `CASE WHEN` checks conditions top to bottom and stops at the first match — order matters.
+- Always include an `ELSE` branch so no row falls through with a `NULL`.
+- `SUM(CASE WHEN condition THEN 1 ELSE 0 END)` is the standard pattern for counting rows that meet a condition, and it can run alongside other aggregates in the same `GROUP BY`.
+- `strftime('%Y-%m', date_column)` truncates a date down to year-month, which is the key to time-based grouping in SQLite (which has no native `DATE_TRUNC`).
+- `||` concatenates strings in SQLite (not `+`, which is arithmetic).
+
+## Step-by-Step Explanation
+1. Write the base `SELECT` and `FROM`.
+2. Add a `CASE WHEN ... THEN ... ELSE ... END` expression as a computed column, or wrap it inside `SUM()`/`COUNT()` for conditional aggregation.
+3. For date grouping, wrap the date column in `strftime('%Y-%m', column)` and use that expression in both `SELECT` and `GROUP BY`.
+4. For text cleanup, apply `SUBSTR()`, `UPPER()`, `LOWER()`, or `||` directly in the `SELECT` list.
+5. Combine both patterns (conditional aggregation + date grouping) for a single-query report.
+
+## Examples
+See `day_41_case_when_date_string.sql` for all 6 runnable examples: value bucketing, conditional aggregation, date grouping, string cleanup, concatenation, and the combined monthly report.
+
+## Common Mistakes
+- Forgetting the `ELSE` branch in `CASE WHEN`, leaving unmatched rows as `NULL`.
+- Using `+` instead of `||` to concatenate strings in SQLite.
+- Trying to `GROUP BY` the raw date column instead of the `strftime()` expression, which produces one group per exact timestamp instead of per month.
+
+## Interview Questions
+- How would you calculate the number of "paid" vs "unpaid" orders in one query without running two separate queries?
+- What's the difference between filtering rows with `WHERE` and bucketing them with `CASE WHEN`?
+- How do you group timestamped data by month in SQLite specifically (as opposed to Postgres/MySQL)?
+
+## Key Takeaways
+- `CASE WHEN` turns row-level conditions into new columns or pivot-style aggregates.
+- `strftime()` is the SQLite-specific way to group data by time period.
+- String functions clean and combine text without leaving SQL.
+
+## Summary
+Today combined conditional logic with date and string functions to write single-query reports — the exact query shape used in day-to-day reporting and dashboard work, and now demonstrated on the FC Lahore Lions dataset.
