@@ -1,34 +1,44 @@
-IyBEYXkgMzggQ29udGVudCBQYWNrYWdlIOKAlCBTdW1tYXJ5CgojIyBGb2xk
-ZXIgU3RydWN0dXJlClB1cmUtU1FMIGRheSAoREIgQnJvd3NlciBmb3IgU1FM
-aXRlKSwgc28gdGhlIGRhdGFiYXNlIGZpbGUgcmVwbGFjZXMgbm90ZWJvb2su
-aXB5bmI6CgpgYGAKRGF5LTM4LVNRTC1BZ2dyZWdhdGVzLUdyb3VwQnktSGF2
-aW5nLwrilIIK4pSc4pSA4pSAIGRheV8zOF9hZ2dyZWdhdGVzX2dyb3VwYnlf
-aGF2aW5nLmRiICAgICAgKFNRTGl0ZSBkYXRhYmFzZSDigJQgcGxheWVycyAr
-IG1hdGNoX3N0YXRzKQrilJzilIDilIAgZGF5XzM4X2FnZ3JlZ2F0ZXNfZ3Jv
-dXBieV9oYXZpbmcuc3FicHJvICAoREIgQnJvd3NlciBwcm9qZWN0IGZpbGUg
-d2l0aCBzYXZlZCBxdWVyaWVzKQrilJzilIDilIAgbm90ZXMubWQgICAgICAg
-ICAgICAgICAgICAgICAgICAgICAgICAgICAgKGluY2x1ZGVzIFF1aWNrIE92
-ZXJ2aWV3IGF0IHRvcCkK4pSU4pSA4pSAIGltYWdlcy8KICAgIOKUnOKUgOKU
-gCBkYXlfMzhfY291bnRfc3VtX2F2Zy5wbmcKICAgIOKUnOKUgOKUgCBkYXlf
-MzhfbWluX21heC5wbmcKICAgIOKUnOKUgOKUgCBkYXlfMzhfZ3JvdXBfYnku
-cG5nCiAgICDilJzilIDilIAgZGF5XzM4X3doZXJlX2JlZm9yZV9ncm91cGlu
-Zy5wbmcKICAgIOKUnOKUgOKUgCBkYXlfMzhfaGF2aW5nX2FmdGVyX2dyb3Vw
-aW5nLnBuZwogICAg4pSU4pSA4pSAIGRheV8zOF9vcmRlcmJ5X2xpbWl0X3Rv
-cG4ucG5nCmBgYAoKIyMgQ29tbWl0IE1lc3NhZ2UKYGBgCkRheSAzODogTGVh
-cm5lZCBTUUwgQWdncmVnYXRlcywgR1JPVVAgQlkgJiBIQVZJTkcKYGBgCgoj
-IyBSZXBvc2l0b3J5IERlc2NyaXB0aW9uCmBgYApEYXkgMzggb2YgbXkgRGF0
-YSBTY2llbmNlIGpvdXJuZXkg4oCUIFNRTCBhZ2dyZWdhdGUgZnVuY3Rpb25z
-LCBHUk9VUCBCWSwgYW5kIEhBVklORyB2cyBXSEVSRS4KYGBgCig4OSBjaGFy
-YWN0ZXJzIOKAlCB1bmRlciB0aGUgMTIwIGxpbWl0KQoKIyMgRmlsZSBOYW1l
-cwotIGBkYXlfMzhfYWdncmVnYXRlc19ncm91cGJ5X2hhdmluZy5kYmAKLSBg
-ZGF5XzM4X2FnZ3JlZ2F0ZXNfZ3JvdXBieV9oYXZpbmcuc3FicHJvYAotIGBu
-b3Rlcy5tZGAKLSBgZGF5XzM4X2NvdW50X3N1bV9hdmcucG5nYAotIGBkYXlf
-MzhfbWluX21heC5wbmdgCi0gYGRheV8zOF9ncm91cF9ieS5wbmdgCi0gYGRh
-eV8zOF93aGVyZV9iZWZvcmVfZ3JvdXBpbmcucG5nYAotIGBkYXlfMzhfaGF2
-aW5nX2FmdGVyX2dyb3VwaW5nLnBuZ2AKLSBgZGF5XzM4X29yZGVyYnlfbGlt
-aXRfdG9wbi5wbmdgCgojIyBTRU8gS2V5d29yZHMgLyBHaXRIdWIgVG9waWNz
-CmBzcWxgIMK3IGBkYXRhLXNjaWVuY2VgIMK3IGBzcWxpdGVgIMK3IGBncm91
-cC1ieWAgwrcgYGhhdmluZ2AgwrcgYGFnZ3JlZ2F0ZS1mdW5jdGlvbnNgIMK3
-IGBsZWFybmluZy1qb3VybmV5YCDCtyBgOTAtZGF5LWNoYWxsZW5nZWAgwrcg
-YGJlZ2lubmVyLWZyaWVuZGx5YCDCtyBgZGF0YWJhc2VgIMK3IGBkYXRhLWFu
-YWx5dGljc2AgwrcgYGludGVydmlldy1wcmVwYAo=
+# Day 38 Content Package — Summary
+
+## Folder Structure
+Pure-SQL day (DB Browser for SQLite), so the database file replaces notebook.ipynb:
+
+```
+Day-38-SQL-Aggregates-GroupBy-Having/
+│
+├── day_38_aggregates_groupby_having.db      (SQLite database — players + match_stats)
+├── day_38_aggregates_groupby_having.sqbpro  (DB Browser project file with saved queries)
+├── notes.md                                  (includes Quick Overview at top)
+└── images/
+    ├── day_38_count_sum_avg.png
+    ├── day_38_min_max.png
+    ├── day_38_group_by.png
+    ├── day_38_where_before_grouping.png
+    ├── day_38_having_after_grouping.png
+    └── day_38_orderby_limit_topn.png
+```
+
+## Commit Message
+```
+Day 38: Learned SQL Aggregates, GROUP BY & HAVING
+```
+
+## Repository Description
+```
+Day 38 of my Data Science journey — SQL aggregate functions, GROUP BY, and HAVING vs WHERE.
+```
+(89 characters — under the 120 limit)
+
+## File Names
+- `day_38_aggregates_groupby_having.db`
+- `day_38_aggregates_groupby_having.sqbpro`
+- `notes.md`
+- `day_38_count_sum_avg.png`
+- `day_38_min_max.png`
+- `day_38_group_by.png`
+- `day_38_where_before_grouping.png`
+- `day_38_having_after_grouping.png`
+- `day_38_orderby_limit_topn.png`
+
+## SEO Keywords / GitHub Topics
+`sql` · `data-science` · `sqlite` · `group-by` · `having` · `aggregate-functions` · `learning-journey` · `90-day-challenge` · `beginner-friendly` · `database` · `data-analytics` · `interview-prep`
