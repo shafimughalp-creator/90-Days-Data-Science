@@ -1,119 +1,91 @@
-CiMgU1FMIOKAlCBJTk5FUiBKT0lOICYgTEVGVCBKT0lOIChNdWx0aS1UYWJs
-ZSBRdWVyaWVzKQoKIyMgUXVpY2sgT3ZlcnZpZXcKLSAqKlRvcGljOioqIENv
-bWJpbmluZyBkYXRhIHRoYXQncyBzcHJlYWQgYWNyb3NzIG11bHRpcGxlIHJl
-bGF0ZWQgdGFibGVzIHVzaW5nIEpPSU5zLgotICoqV2hhdCBJIGxlYXJuZWQ6
-KiogSG93IHRvIGNvbm5lY3QgYGN1c3RvbWVyc2AsIGBvcmRlcnNgLCBhbmQg
-YHByb2R1Y3RzYCB0YWJsZXMgdG9nZXRoZXIgd2l0aCBgSU5ORVIgSk9JTmAg
-YW5kIGBMRUZUIEpPSU5gLCBhbmQgaG93IHRvIHNwb3Qgcm93cyB3aXRoIG5v
-IG1hdGNoIHVzaW5nIHRoZSBMRUZUIEpPSU4gKyBgSVMgTlVMTGAgcGF0dGVy
-bi4KLSAqKlRvb2xzIHVzZWQ6KiogU1FMaXRlLCBEQiBCcm93c2VyIGZvciBT
-UUxpdGUuCgojIyBJbnRyb2R1Y3Rpb24KUmVhbCBkYXRhIGFsbW9zdCBuZXZl
-ciBsaXZlcyBpbiBvbmUgdGFibGUuIEEgc3RvcmUncyBkYXRhIGlzIHNwbGl0
-IGludG8gYGN1c3RvbWVyc2AsIGBwcm9kdWN0c2AsIGFuZCBgb3JkZXJzYCBz
-byBub3RoaW5nIGdldHMgcmVwZWF0ZWQg4oCUIGJ1dCB0aGF0IG1lYW5zIHRv
-IGFuc3dlciBhIHJlYWwgcXVlc3Rpb24gKCJ3aG8gYm91Z2h0IHdoYXQ/Iikg
-eW91IG5lZWQgdG8gKmpvaW4qIHRoZSB0YWJsZXMgYmFjayB0b2dldGhlci4g
-VG9kYXkgd2FzIGFib3V0IGxlYXJuaW5nIHRoZSB0d28gbW9zdCBjb21tb24g
-d2F5cyB0byBkbyB0aGF0OiBgSU5ORVIgSk9JTmAgYW5kIGBMRUZUIEpPSU5g
-LgoKIyMgRGVmaW5pdGlvbnMKLSAqKkpPSU46KiogQSB3YXkgdG8gY29tYmlu
-ZSByb3dzIGZyb20gdHdvIG9yIG1vcmUgdGFibGVzIGJhc2VkIG9uIGEgcmVs
-YXRlZCBjb2x1bW4gYmV0d2VlbiB0aGVtLgotICoqSU5ORVIgSk9JTjoqKiBS
-ZXR1cm5zIG9ubHkgdGhlIHJvd3MgdGhhdCBoYXZlIGEgbWF0Y2ggaW4gKmJv
-dGgqIHRhYmxlcy4gSWYgYSBjdXN0b21lciBoYXMgbmV2ZXIgcGxhY2VkIGFu
-IG9yZGVyLCB0aGV5J3JlIGxlZnQgb3V0IGVudGlyZWx5LgotICoqTEVGVCBK
-T0lOOioqIFJldHVybnMgKmV2ZXJ5KiByb3cgZnJvbSB0aGUgbGVmdCAoZmly
-c3QpIHRhYmxlLCBwbHVzIGFueSBtYXRjaGluZyBkYXRhIGZyb20gdGhlIHJp
-Z2h0IHRhYmxlLiBJZiB0aGVyZSdzIG5vIG1hdGNoLCB0aGUgcmlnaHQgc2lk
-ZSBqdXN0IHNob3dzIGBOVUxMYC4KLSAqKk9OIGNsYXVzZToqKiBUaGUgY29u
-ZGl0aW9uIHRoYXQgdGVsbHMgU1FMIGhvdyB0d28gdGFibGVzIGFyZSByZWxh
-dGVkIOKAlCB1c3VhbGx5IGEgcHJpbWFyeSBrZXkgaW4gb25lIHRhYmxlIG1h
-dGNoaW5nIGEgZm9yZWlnbiBrZXkgaW4gYW5vdGhlci4KLSAqKkFudGktam9p
-biBwYXR0ZXJuOioqIEEgYExFRlQgSk9JTmAgY29tYmluZWQgd2l0aCBgV0hF
-UkUgPHJpZ2h0X3RhYmxlPi48Y29sPiBJUyBOVUxMYCwgdXNlZCB0byBmaW5k
-IHJvd3MgaW4gdGhlIGxlZnQgdGFibGUgdGhhdCBoYXZlICpubyogbWF0Y2gg
-YXQgYWxsIChlLmcuICJwcm9kdWN0cyB0aGF0IHdlcmUgbmV2ZXIgb3JkZXJl
-ZCIpLgoKIyMgSW1wb3J0YW50IENvbmNlcHRzCi0gQSBqb2luIGRvZXNuJ3Qg
-Y2hhbmdlIHRoZSB0YWJsZXMgdGhlbXNlbHZlcyDigJQgaXQgYnVpbGRzIGEg
-dGVtcG9yYXJ5IGNvbWJpbmVkIHJlc3VsdCBqdXN0IGZvciB0aGF0IHF1ZXJ5
-LgotIGBJTk5FUiBKT0lOYCBpcyAibWF0Y2hlcyBvbmx5LiIgYExFRlQgSk9J
-TmAgaXMgImV2ZXJ5dGhpbmcgZnJvbSB0aGUgbGVmdCwgbWF0Y2hlZCBvciBu
-b3QuIgotIEZpbHRlcmluZyAoYFdIRVJFYCkgYW5kIHNvcnRpbmcgKGBPUkRF
-UiBCWWApIGhhcHBlbiAqYWZ0ZXIqIHRoZSBqb2luIGhhcyBhbHJlYWR5IGNv
-bWJpbmVkIHRoZSByb3dzLgotIFlvdSBjYW4gY2hhaW4gbW9yZSB0aGFuIG9u
-ZSBKT0lOIHRvIHB1bGwgaW4gYSB0aGlyZCAob3IgZm91cnRoKSB0YWJsZSDi
-gJQganVzdCBhZGQgYW5vdGhlciBgSk9JTiAuLi4gT04gLi4uYCBsaW5lLgot
-IEFnZ3JlZ2F0ZSBmdW5jdGlvbnMgKGBTVU1gLCBgQ09VTlRgLCBldGMuKSB3
-b3JrIG9uIGpvaW5lZCBkYXRhIGV4YWN0bHkgbGlrZSB0aGV5IGRvIG9uIGEg
-c2luZ2xlIHRhYmxlIOKAlCBjb21iaW5lIHRoZSBKT0lOIHdpdGggYEdST1VQ
-IEJZYCB0byBnZXQgb25lIHN1bW1hcnkgcm93IHBlciBncm91cC4KCiMjIFN0
-ZXAtYnktU3RlcCBFeHBsYW5hdGlvbgoxLiBTdGFydCB3aXRoIHRoZSBiYXNl
-IHRhYmxlIGluIGBGUk9NYCBhbmQgZ2l2ZSBpdCBhIHNob3J0IGFsaWFzIChl
-LmcuIGBjdXN0b21lcnMgY2ApLgoyLiBDaG9vc2UgYElOTkVSIEpPSU5gIG9y
-IGBMRUZUIEpPSU5gIGRlcGVuZGluZyBvbiB3aGV0aGVyIHVubWF0Y2hlZCBy
-b3dzIHNob3VsZCBiZSBkcm9wcGVkIG9yIGtlcHQuCjMuIEFkZCB0aGUgc2Vj
-b25kIHRhYmxlIHdpdGggaXRzIG93biBhbGlhcy4KNC4gV3JpdGUgdGhlIGBP
-TmAgY29uZGl0aW9uIGxpbmtpbmcgdGhlIHR3byB0YWJsZXMnIGtleXMgKHVz
-dWFsbHkgYGxlZnQuaWQgPSByaWdodC5mb3JlaWduX2lkYCkuCjUuIEFkZCBg
-V0hFUkVgLCBgR1JPVVAgQllgLCBvciBgT1JERVIgQllgIGFzIG5lZWRlZCDi
-gJQgdGhlc2UgYXBwbHkgdG8gdGhlIGFscmVhZHktam9pbmVkIHJlc3VsdC4K
-Ni4gVG8gcHVsbCBpbiBhIHRoaXJkIHRhYmxlLCBhZGQgYW5vdGhlciBgSk9J
-TiAuLi4gT04gLi4uYCBibG9jayByaWdodCBhZnRlciB0aGUgZmlyc3QuCgoj
-IyBFeGFtcGxlcwoqKklOTkVSIEpPSU4g4oCUIGN1c3RvbWVycyB3aG8ndmUg
-b3JkZXJlZDoqKgpgYGBzcWwKU0VMRUNUIGMubmFtZSwgYy5jaXR5LCBvLm9y
-ZGVyX2RhdGUKRlJPTSBjdXN0b21lcnMgYwpJTk5FUiBKT0lOIG9yZGVycyBv
-Ck9OIGMuY3VzdG9tZXJfaWQgPSBvLmN1c3RvbWVyX2lkOwpgYGAKCioqTEVG
-VCBKT0lOIOKAlCBldmVyeSBjdXN0b21lciwgb3JkZXJlZCBvciBub3Q6KioK
-YGBgc3FsClNFTEVDVCBjLm5hbWUsIG8ub3JkZXJfZGF0ZQpGUk9NIGN1c3Rv
-bWVycyBjCkxFRlQgSk9JTiBvcmRlcnMgbwpPTiBjLmN1c3RvbWVyX2lkID0g
-by5jdXN0b21lcl9pZDsKYGBgCgoqKkFudGktam9pbiDigJQgcHJvZHVjdHMg
-dGhhdCB3ZXJlIG5ldmVyIG9yZGVyZWQ6KioKYGBgc3FsClNFTEVDVCBwLnBy
-b2R1Y3RfaWQsIHAucHJvZHVjdF9uYW1lCkZST00gcHJvZHVjdHMgcApMRUZU
-IEpPSU4gb3JkZXJzIG8KT04gcC5wcm9kdWN0X2lkID0gby5wcm9kdWN0X2lk
-CldIRVJFIG8ub3JkZXJfaWQgSVMgTlVMTDsKYGBgCgoqKjMtdGFibGUgSk9J
-TiArIGFnZ3JlZ2F0aW9uIOKAlCB0b3RhbCBzcGVuZCBwZXIgY3VzdG9tZXI6
-KioKYGBgc3FsClNFTEVDVCBjLm5hbWUsIFNVTShwLnByaWNlICogby5xdWFu
-dGl0eSkgQVMgdG90YWxfc3BlbnQKRlJPTSBjdXN0b21lcnMgYwpJTk5FUiBK
-T0lOIG9yZGVycyBvIE9OIGMuY3VzdG9tZXJfaWQgPSBvLmN1c3RvbWVyX2lk
-CklOTkVSIEpPSU4gcHJvZHVjdHMgcCBPTiBvLnByb2R1Y3RfaWQgPSBwLnBy
-b2R1Y3RfaWQKR1JPVVAgQlkgYy5uYW1lCk9SREVSIEJZIHRvdGFsX3NwZW50
-IERFU0M7CmBgYAoKIyMgQ29tbW9uIE1pc3Rha2VzCi0gRm9yZ2V0dGluZyB0
-aGUgYE9OYCBjbGF1c2UsIHdoaWNoIHByb2R1Y2VzIGEgY3Jvc3Mgam9pbiAo
-ZXZlcnkgcm93IG1hdGNoZWQgd2l0aCBldmVyeSByb3cpIGluc3RlYWQgb2Yg
-YSBwcm9wZXIgam9pbi4KLSBVc2luZyBgSU5ORVIgSk9JTmAgd2hlbiB0aGUg
-Z29hbCBpcyB0byBrZWVwIHVubWF0Y2hlZCByb3dzIHRvbyDigJQgdGhlIG1p
-c3Npbmcgcm93cyBzaWxlbnRseSBkaXNhcHBlYXIgaW5zdGVhZCBvZiBlcnJv
-cmluZy4KLSBGaWx0ZXJpbmcgd2l0aCBgV0hFUkUgcmlnaHRfdGFibGUuY29s
-ID0gc29tZXRoaW5nYCB3aGVuIHRoZSB0YWJsZSBpcyBMRUZULWpvaW5lZCDi
-gJQgdGhpcyBhY2NpZGVudGFsbHkgdHVybnMgdGhlIExFRlQgSk9JTiBiYWNr
-IGludG8gYW4gSU5ORVIgSk9JTiAoYSBOVUxMIG5ldmVyIGVxdWFscyBhIHZh
-bHVlKS4gRmlsdGVyaW5nIGZvciBtaXNzaW5nIHJvd3MgYWx3YXlzIG5lZWRz
-IGBJUyBOVUxMYCwgbm90IGA9IE5VTExgLgotIExvc2luZyB0cmFjayBvZiB3
-aGljaCB0YWJsZSBpcyAibGVmdCIgd2hlbiBjaGFpbmluZyBtdWx0aXBsZSBq
-b2lucy4KCiMjIEludGVydmlldyBRdWVzdGlvbnMKLSBXaGF0J3MgdGhlIGRp
-ZmZlcmVuY2UgYmV0d2VlbiBhbiBgSU5ORVIgSk9JTmAgYW5kIGEgYExFRlQg
-Sk9JTmA/Ci0gSG93IHdvdWxkIHlvdSBmaW5kIHJvd3MgaW4gVGFibGUgQSB0
-aGF0IGhhdmUgbm8gbWF0Y2hpbmcgcm93IGluIFRhYmxlIEI/Ci0gV2h5IGRv
-ZXNuJ3QgYFdIRVJFIGIuY29sdW1uID0gTlVMTGAgd29yayB0byBmaW5kIHVu
-bWF0Y2hlZCByb3dzPwotIElmIHlvdSBjaGFpbiB0d28gYElOTkVSIEpPSU5g
-cywgd2hhdCBoYXBwZW5zIHRvIGEgcm93IHRoYXQgbWF0Y2hlcyB0aGUgZmly
-c3QgdGFibGUgYnV0IG5vdCB0aGUgc2Vjb25kPwotIFdoYXQgZGV0ZXJtaW5l
-cyB3aGljaCB0YWJsZSBpcyB0aGUgImxlZnQiIHRhYmxlIGluIGEgYExFRlQg
-Sk9JTmA/CgojIyBLZXkgVGFrZWF3YXlzCi0gYElOTkVSIEpPSU5gID0gbWF0
-Y2hlcyBvbmx5LCBmcm9tIGJvdGggc2lkZXMuCi0gYExFRlQgSk9JTmAgPSBl
-dmVyeXRoaW5nIGZyb20gdGhlIGxlZnQgdGFibGUsIG1hdGNoZXMgb3B0aW9u
-YWwuCi0gYElTIE5VTExgIGFmdGVyIGEgYExFRlQgSk9JTmAgaXMgdGhlIHN0
-YW5kYXJkIHdheSB0byBmaW5kICJ3aGF0J3MgbWlzc2luZy4iCi0gSm9pbnMg
-Y2FuIGJlIGNoYWluZWQgYWNyb3NzIGFzIG1hbnkgdGFibGVzIGFzIHRoZSBx
-dWVzdGlvbiBuZWVkcy4KLSBgV0hFUkVgLCBgR1JPVVAgQllgLCBhbmQgYE9S
-REVSIEJZYCBhbGwgcnVuIG9uIHRoZSBqb2luZWQgcmVzdWx0LCBub3QgdGhl
-IG9yaWdpbmFsIHRhYmxlcy4KCiMjIFN1bW1hcnkKVG9kYXkgY292ZXJlZCBo
-b3cgdG8gYnJpbmcgcmVsYXRlZCB0YWJsZXMgYmFjayB0b2dldGhlciB3aXRo
-IGBJTk5FUiBKT0lOYCBhbmQgYExFRlQgSk9JTmAsIHdoZW4gdG8gdXNlIGVh
-Y2ggb25lLCBhbmQgaG93IHRvIHVzZSBhIGBMRUZUIEpPSU5gIHdpdGggYElT
-IE5VTExgIHRvIHN1cmZhY2Ugcm93cyB3aXRoIG5vIG1hdGNoIOKAlCBhIHBh
-dHRlcm4gdGhhdCBzaG93cyB1cCBjb25zdGFudGx5IGluIHJlYWwgYW5hbHlz
-aXMgKGN1c3RvbWVycyB3aXRoIG5vIG9yZGVycywgcHJvZHVjdHMgbmV2ZXIg
-c29sZCwgZXRjLikuIEFsc28gcHJhY3RpY2VkIGNoYWluaW5nIGpvaW5zIGFj
-cm9zcyB0aHJlZSB0YWJsZXMgYW5kIGNvbWJpbmluZyBhIGpvaW4gd2l0aCBg
-U1VNYC9gR1JPVVAgQllgIHRvIGJ1aWxkIGEgcmVhbCBzdW1tYXJ5IHJlcG9y
-dC4K
+
+# SQL — INNER JOIN & LEFT JOIN (Multi-Table Queries)
+
+## Quick Overview
+- **Topic:** Combining data that's spread across multiple related tables using JOINs.
+- **What I learned:** How to connect `customers`, `orders`, and `products` tables together with `INNER JOIN` and `LEFT JOIN`, and how to spot rows with no match using the LEFT JOIN + `IS NULL` pattern.
+- **Tools used:** SQLite, DB Browser for SQLite.
+
+## Introduction
+Real data almost never lives in one table. A store's data is split into `customers`, `products`, and `orders` so nothing gets repeated — but that means to answer a real question ("who bought what?") you need to *join* the tables back together. Today was about learning the two most common ways to do that: `INNER JOIN` and `LEFT JOIN`.
+
+## Definitions
+- **JOIN:** A way to combine rows from two or more tables based on a related column between them.
+- **INNER JOIN:** Returns only the rows that have a match in *both* tables. If a customer has never placed an order, they're left out entirely.
+- **LEFT JOIN:** Returns *every* row from the left (first) table, plus any matching data from the right table. If there's no match, the right side just shows `NULL`.
+- **ON clause:** The condition that tells SQL how two tables are related — usually a primary key in one table matching a foreign key in another.
+- **Anti-join pattern:** A `LEFT JOIN` combined with `WHERE <right_table>.<col> IS NULL`, used to find rows in the left table that have *no* match at all (e.g. "products that were never ordered").
+
+## Important Concepts
+- A join doesn't change the tables themselves — it builds a temporary combined result just for that query.
+- `INNER JOIN` is "matches only." `LEFT JOIN` is "everything from the left, matched or not."
+- Filtering (`WHERE`) and sorting (`ORDER BY`) happen *after* the join has already combined the rows.
+- You can chain more than one JOIN to pull in a third (or fourth) table — just add another `JOIN ... ON ...` line.
+- Aggregate functions (`SUM`, `COUNT`, etc.) work on joined data exactly like they do on a single table — combine the JOIN with `GROUP BY` to get one summary row per group.
+
+## Step-by-Step Explanation
+1. Start with the base table in `FROM` and give it a short alias (e.g. `customers c`).
+2. Choose `INNER JOIN` or `LEFT JOIN` depending on whether unmatched rows should be dropped or kept.
+3. Add the second table with its own alias.
+4. Write the `ON` condition linking the two tables' keys (usually `left.id = right.foreign_id`).
+5. Add `WHERE`, `GROUP BY`, or `ORDER BY` as needed — these apply to the already-joined result.
+6. To pull in a third table, add another `JOIN ... ON ...` block right after the first.
+
+## Examples
+**INNER JOIN — customers who've ordered:**
+```sql
+SELECT c.name, c.city, o.order_date
+FROM customers c
+INNER JOIN orders o
+ON c.customer_id = o.customer_id;
+```
+
+**LEFT JOIN — every customer, ordered or not:**
+```sql
+SELECT c.name, o.order_date
+FROM customers c
+LEFT JOIN orders o
+ON c.customer_id = o.customer_id;
+```
+
+**Anti-join — products that were never ordered:**
+```sql
+SELECT p.product_id, p.product_name
+FROM products p
+LEFT JOIN orders o
+ON p.product_id = o.product_id
+WHERE o.order_id IS NULL;
+```
+
+**3-table JOIN + aggregation — total spend per customer:**
+```sql
+SELECT c.name, SUM(p.price * o.quantity) AS total_spent
+FROM customers c
+INNER JOIN orders o ON c.customer_id = o.customer_id
+INNER JOIN products p ON o.product_id = p.product_id
+GROUP BY c.name
+ORDER BY total_spent DESC;
+```
+
+## Common Mistakes
+- Forgetting the `ON` clause, which produces a cross join (every row matched with every row) instead of a proper join.
+- Using `INNER JOIN` when the goal is to keep unmatched rows too — the missing rows silently disappear instead of erroring.
+- Filtering with `WHERE right_table.col = something` when the table is LEFT-joined — this accidentally turns the LEFT JOIN back into an INNER JOIN (a NULL never equals a value). Filtering for missing rows always needs `IS NULL`, not `= NULL`.
+- Losing track of which table is "left" when chaining multiple joins.
+
+## Interview Questions
+- What's the difference between an `INNER JOIN` and a `LEFT JOIN`?
+- How would you find rows in Table A that have no matching row in Table B?
+- Why doesn't `WHERE b.column = NULL` work to find unmatched rows?
+- If you chain two `INNER JOIN`s, what happens to a row that matches the first table but not the second?
+- What determines which table is the "left" table in a `LEFT JOIN`?
+
+## Key Takeaways
+- `INNER JOIN` = matches only, from both sides.
+- `LEFT JOIN` = everything from the left table, matches optional.
+- `IS NULL` after a `LEFT JOIN` is the standard way to find "what's missing."
+- Joins can be chained across as many tables as the question needs.
+- `WHERE`, `GROUP BY`, and `ORDER BY` all run on the joined result, not the original tables.
+
+## Summary
+Today covered how to bring related tables back together with `INNER JOIN` and `LEFT JOIN`, when to use each one, and how to use a `LEFT JOIN` with `IS NULL` to surface rows with no match — a pattern that shows up constantly in real analysis (customers with no orders, products never sold, etc.). Also practiced chaining joins across three tables and combining a join with `SUM`/`GROUP BY` to build a real summary report.
