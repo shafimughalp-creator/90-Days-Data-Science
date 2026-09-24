@@ -1,128 +1,100 @@
-IyBTUUwg4oCUIEFnZ3JlZ2F0ZXMgJiBHUk9VUCBCWSArIEhBVklORwoKIyMg
-UXVpY2sgT3ZlcnZpZXcKLSAqKlRvcGljOioqIFNRTCBhZ2dyZWdhdGUgZnVu
-Y3Rpb25zIChDT1VOVCwgU1VNLCBBVkcsIE1JTiwgTUFYKSBjb21iaW5lZCB3
-aXRoIEdST1VQIEJZIGFuZCBIQVZJTkcKLSAqKldoYXQgSSBsZWFybmVkOioq
-IEhvdyB0byBzdW1tYXJpemUgcmF3IHJvd3MgaW50byBwZXItZ3JvdXAgcmVw
-b3J0cywgYW5kIHRoZSBleGFjdCBkaWZmZXJlbmNlIGJldHdlZW4gZmlsdGVy
-aW5nICpiZWZvcmUqIGdyb3VwaW5nIChXSEVSRSkgdnMgZmlsdGVyaW5nICph
-ZnRlciogZ3JvdXBpbmcgKEhBVklORykKLSAqKlRlY2gvdG9vbHMgdXNlZDoq
-KiBTUUxpdGUsIERCIEJyb3dzZXIgZm9yIFNRTGl0ZSwgYSBzbWFsbCBgcGxh
-eWVyc2AgLyBgbWF0Y2hfc3RhdHNgIHNjaGVtYSAoRkMgTGFob3JlIExpb25z
-IGRhdGFzZXQpCgojIyBJbnRyb2R1Y3Rpb24KLSBVcCB0byBub3csIHF1ZXJp
-ZXMgcmV0dXJuZWQgb25lIHJvdyBwZXIgcm93IGluIHRoZSB0YWJsZSAocmF3
-IHJvd3MpLgotIEFnZ3JlZ2F0ZSBmdW5jdGlvbnMgbGV0IFNRTCBjb2xsYXBz
-ZSBtYW55IHJvd3MgaW50byBhIHNpbmdsZSBzdW1tYXJ5IHZhbHVlIOKAlCB0
-b3RhbCBnb2FscywgYXZlcmFnZSBtaW51dGVzLCBldGMuCi0gR1JPVVAgQlkg
-dGFrZXMgdGhhdCBvbmUgc3RlcCBmdXJ0aGVyOiBpbnN0ZWFkIG9mIG9uZSBz
-dW1tYXJ5IGZvciB0aGUgd2hvbGUgdGFibGUsIHlvdSBnZXQgb25lIHN1bW1h
-cnkgKipwZXIgZ3JvdXAqKiAoZS5nLiwgcGVyIHBsYXllcikuCi0gVGhpcyBp
-cyB0aGUgc2luZ2xlIG1vc3QtdGVzdGVkIFNRTCBwYXR0ZXJuIGluIGRhdGEg
-c2NpZW5jZSBpbnRlcnZpZXdzLCBiZWNhdXNlIGFsbW9zdCBldmVyeSByZWFs
-IHJlcG9ydGluZyBxdWVzdGlvbiAoInRvdGFsIHJldmVudWUgcGVyIGNhdGVn
-b3J5IiwgImF2ZXJhZ2Ugc2FsYXJ5IHBlciBkZXBhcnRtZW50IikgaXMgYSBH
-Uk9VUCBCWSArIGFnZ3JlZ2F0ZSBxdWVzdGlvbi4KCiMjIERlZmluaXRpb25z
-Ci0gKipBZ2dyZWdhdGUgZnVuY3Rpb24qKiDigJQgYSBmdW5jdGlvbiB0aGF0
-IHRha2VzIG1hbnkgcm93cyBhbmQgcmV0dXJucyBvbmUgdmFsdWUgKENPVU5U
-LCBTVU0sIEFWRywgTUlOLCBNQVgpCi0gKipDT1VOVCgpKiog4oCUIGNvdW50
-cyByb3dzIChvciBub24tTlVMTCB2YWx1ZXMgaW4gYSBzcGVjaWZpYyBjb2x1
-bW4pCi0gKipTVU0oKSoqIOKAlCBhZGRzIHVwIGFsbCB2YWx1ZXMgaW4gYSBu
-dW1lcmljIGNvbHVtbgotICoqQVZHKCkqKiDigJQgY2FsY3VsYXRlcyB0aGUg
-bWVhbiBvZiBhIG51bWVyaWMgY29sdW1uCi0gKipNSU4oKSAvIE1BWCgpKiog
-4oCUIHNtYWxsZXN0IC8gbGFyZ2VzdCB2YWx1ZSBpbiBhIGNvbHVtbgotICoq
-R1JPVVAgQlkqKiDigJQgc3BsaXRzIHRoZSB0YWJsZSBpbnRvIGJ1Y2tldHMg
-YmFzZWQgb24gb25lIG9yIG1vcmUgY29sdW1ucywgdGhlbiBydW5zIHRoZSBh
-Z2dyZWdhdGUgc2VwYXJhdGVseSBmb3IgZWFjaCBidWNrZXQKLSAqKkhBVklO
-RyoqIOKAlCBhIFdIRVJFIGNsYXVzZSB0aGF0IHJ1bnMgKmFmdGVyKiBHUk9V
-UCBCWSwgdXNlZCB0byBmaWx0ZXIgdGhlIGdyb3VwZWQvYWdncmVnYXRlZCBy
-ZXN1bHRzCi0gKipMb2dpY2FsIGV4ZWN1dGlvbiBvcmRlcioqIGZvciBhIHF1
-ZXJ5IHdpdGggYWxsIGNsYXVzZXM6IGBGUk9NIOKGkiBXSEVSRSDihpIgR1JP
-VVAgQlkg4oaSIEhBVklORyDihpIgU0VMRUNUIOKGkiBPUkRFUiBCWSDihpIg
-TElNSVRgCgojIyBJbXBvcnRhbnQgQ29uY2VwdHMKLSAqKldIRVJFIHZzIEhB
-VklORyBpcyB0aGUgY2xhc3NpYyBpbnRlcnZpZXcgcXVlc3Rpb246KioKICAt
-IGBXSEVSRWAgZmlsdGVycyByYXcgcm93cyAqKmJlZm9yZSoqIGdyb3VwaW5n
-IGhhcHBlbnMg4oCUIGl0IG5ldmVyIHNlZXMgYW4gYWdncmVnYXRlIHZhbHVl
-LgogIC0gYEhBVklOR2AgZmlsdGVycyB0aGUgZ3JvdXBlZCByb3dzICoqYWZ0
-ZXIqKiBhZ2dyZWdhdGlvbiDigJQgaXQncyB0aGUgb25seSBwbGFjZSB5b3Ug
-Y2FuIHdyaXRlIGBIQVZJTkcgU1VNKGdvYWxzKSA+IDJgLgogIC0gVXNpbmcg
-YW4gYWdncmVnYXRlIGluc2lkZSBXSEVSRSAoZS5nLiBgV0hFUkUgU1VNKGdv
-YWxzKSA+IDJgKSBpcyBhIGNvbW1vbiBiZWdpbm5lciBtaXN0YWtlIGFuZCB3
-aWxsIGVycm9yIGluIFNRTGl0ZS4KLSBFdmVyeSBub24tYWdncmVnYXRlZCBj
-b2x1bW4gaW4gU0VMRUNUIG11c3QgYXBwZWFyIGluIEdST1VQIEJZIChTUUxp
-dGUgaXMgbGVuaWVudCBhYm91dCB0aGlzLCBidXQgbW9zdCBkYXRhYmFzZXMg
-ZW5mb3JjZSBpdCBzdHJpY3RseSkuCi0gT1JERVIgQlkgYW5kIExJTUlUIGFs
-d2F5cyBydW4gbGFzdCwgYWZ0ZXIgdGhlIGdyb3VwaW5nL2ZpbHRlcmluZyBp
-cyBkb25lIOKAlCB0aGV5IGp1c3QgYXJyYW5nZSBhbmQgdHJpbSB0aGUgZmlu
-YWwgcmVzdWx0IHNldC4KLSBDT1VOVCgqKSBjb3VudHMgYWxsIHJvd3MgaW4g
-YSBncm91cDsgQ09VTlQoY29sdW1uKSBvbmx5IGNvdW50cyBub24tTlVMTCB2
-YWx1ZXMgaW4gdGhhdCBjb2x1bW4g4oCUIHdvcnRoIGtub3dpbmcgd2hlbiBh
-IGNvbHVtbiBjYW4gaGF2ZSBnYXBzLgoKIyMgU3RlcC1ieS1TdGVwIEV4cGxh
-bmF0aW9uCjEuIFN0YXJ0IGZyb20gdGhlIHNvdXJjZSB0YWJsZSAoYEZST01g
-KS4KMi4gQXBwbHkgcm93LWxldmVsIGZpbHRlcnMgZmlyc3QgKGBXSEVSRWAp
-IOKAlCB0aGlzIHJlbW92ZXMgcm93cyBiZWZvcmUgYW55IGdyb3VwaW5nIGhh
-cHBlbnMuCjMuIFNwbGl0IHRoZSByZW1haW5pbmcgcm93cyBpbnRvIGJ1Y2tl
-dHMgKGBHUk9VUCBCWSBwbGF5ZXJfaWRgKS4KNC4gUnVuIHRoZSBhZ2dyZWdh
-dGUgZnVuY3Rpb24gc2VwYXJhdGVseSBpbnNpZGUgZWFjaCBidWNrZXQgKGBT
-VU1gLCBgQVZHYCwgZXRjLikuCjUuIEZpbHRlciB0aGUgKmJ1Y2tldC1sZXZl
-bCogcmVzdWx0cyAoYEhBVklOR2ApIOKAlCB0aGlzIGlzIHdoZXJlIGFnZ3Jl
-Z2F0ZSBjb25kaXRpb25zIGJlbG9uZy4KNi4gU29ydCB0aGUgZmluYWwgZ3Jv
-dXBlZCByb3dzIChgT1JERVIgQllgKS4KNy4gVHJpbSB0byB0aGUgdG9wIE4g
-cm93cyBpZiBuZWVkZWQgKGBMSU1JVGApLgoKIyMgRXhhbXBsZXMKLSBCYXNp
-YyBtdWx0aS1hZ2dyZWdhdGUgc3VtbWFyeSBvdmVyIHRoZSB3aG9sZSB0YWJs
-ZToKICBgYGBzcWwKICBTRUxFQ1QKICAgICAgQ09VTlQoKikgQVMgdG90YWxf
-cm93cywKICAgICAgU1VNKGdvYWxzKSBBUyB0b3RhbF9nb2FscywKICAgICAg
-QVZHKGFzc2lzdHMpIEFTIGF2Z19hc3Npc3RzCiAgRlJPTSBtYXRjaF9zdGF0
-czsKICBgYGAKLSBQZXItcGxheWVyIHRvdGFsIGdvYWxzLCBzb3J0ZWQgaGln
-aGVzdCB0byBsb3dlc3Q6CiAgYGBgc3FsCiAgU0VMRUNUCiAgICAgIHBsYXll
-cl9pZCwKICAgICAgU1VNKGdvYWxzKSBBUyB0b3RhbF9nb2FscwogIEZST00g
-bWF0Y2hfc3RhdHMKICBHUk9VUCBCWSBwbGF5ZXJfaWQKICBPUkRFUiBCWSB0
-b3RhbF9nb2FscyBERVNDOwogIGBgYAotIFdIRVJFIChiZWZvcmUgZ3JvdXBp
-bmcpIHZzIEhBVklORyAoYWZ0ZXIgZ3JvdXBpbmcpIGluIHRoZSBzYW1lIHF1
-ZXJ5OgogIGBgYHNxbAogIFNFTEVDVAogICAgICBwbGF5ZXJfaWQsCiAgICAg
-IFNVTShnb2FscykgQVMgdG90YWxfZ29hbHMKICBGUk9NIG1hdGNoX3N0YXRz
-CiAgV0hFUkUgbWludXRlc19wbGF5ZWQgPj0gNjAgICAgICAgIC0tIHJvdy1s
-ZXZlbCBmaWx0ZXIsIHJ1bnMgZmlyc3QKICBHUk9VUCBCWSBwbGF5ZXJfaWQK
-ICBIQVZJTkcgU1VNKGdvYWxzKSA+IDEgICAgICAgICAgICAgLS0gZ3JvdXAt
-bGV2ZWwgZmlsdGVyLCBydW5zIGFmdGVyCiAgT1JERVIgQlkgdG90YWxfZ29h
-bHMgREVTQzsKICBgYGAKLSBUb3Agc2NvcmVyIG9ubHksIHVzaW5nIEFWRyAr
-IE9SREVSIEJZICsgTElNSVQ6CiAgYGBgc3FsCiAgU0VMRUNUCiAgICAgIHBs
-YXllcl9pZCwKICAgICAgQVZHKG1pbnV0ZXNfcGxheWVkKSBBUyBhdmdfbWlu
-dXRlcwogIEZST00gbWF0Y2hfc3RhdHMKICBHUk9VUCBCWSBwbGF5ZXJfaWQK
-ICBPUkRFUiBCWSBhdmdfbWludXRlcyBERVNDCiAgTElNSVQgMTsKICBgYGAK
-CiMjIENvbW1vbiBNaXN0YWtlcwotIFdyaXRpbmcgYW4gYWdncmVnYXRlIGNv
-bmRpdGlvbiBpbnNpZGUgV0hFUkUgaW5zdGVhZCBvZiBIQVZJTkcgKGBXSEVS
-RSBTVU0oZ29hbHMpID4gMmAg4oaSIGVycm9yKS4KLSBGb3JnZXR0aW5nIHRo
-YXQgV0hFUkUgYW5kIEhBVklORyBjYW4gYm90aCBhcHBlYXIgaW4gdGhlIHNh
-bWUgcXVlcnksIGRvaW5nIHR3byBkaWZmZXJlbnQgam9icy4KLSBBc3N1bWlu
-ZyBHUk9VUCBCWSBzb3J0cyB0aGUgb3V0cHV0IOKAlCBpdCBkb2Vzbid0OyB5
-b3Ugc3RpbGwgbmVlZCBPUkRFUiBCWS4KLSBTZWxlY3RpbmcgYSBjb2x1bW4g
-dGhhdCBpc24ndCBhZ2dyZWdhdGVkIGFuZCBpc24ndCBpbiBHUk9VUCBCWSwg
-dGhlbiBiZWluZyBjb25mdXNlZCBhYm91dCB3aGljaCByb3cncyB2YWx1ZSBT
-UUxpdGUgcGlja2VkLgoKIyMgSW50ZXJ2aWV3IFF1ZXN0aW9ucwotIFdoYXQn
-cyB0aGUgZGlmZmVyZW5jZSBiZXR3ZWVuIFdIRVJFIGFuZCBIQVZJTkcsIGFu
-ZCB3aHkgY2FuJ3QgeW91IHVzZSBhbiBhZ2dyZWdhdGUgZnVuY3Rpb24gaW4g
-V0hFUkU/Ci0gV3JpdGUgYSBxdWVyeSB0byBmaW5kIHRoZSB0b3RhbCByZXZl
-bnVlIHBlciBwcm9kdWN0IGNhdGVnb3J5LCBzaG93aW5nIG9ubHkgY2F0ZWdv
-cmllcyB3aXRoIHJldmVudWUgb3ZlciAkMTAsMDAwLgotIFdoYXQncyB0aGUg
-ZGlmZmVyZW5jZSBiZXR3ZWVuIENPVU5UKCopIGFuZCBDT1VOVChjb2x1bW5f
-bmFtZSk/Ci0gV2hhdCBvcmRlciBkbyBTUUwgY2xhdXNlcyBsb2dpY2FsbHkg
-ZXhlY3V0ZSBpbiwgYW5kIHdoeSBkb2VzIHRoYXQgbWF0dGVyIGZvciBHUk9V
-UCBCWS9IQVZJTkc/CgojIyBLZXkgVGFrZWF3YXlzCi0gQWdncmVnYXRlcyBj
-b2xsYXBzZSByb3dzIGludG8gYSBzaW5nbGUgc3VtbWFyeSB2YWx1ZTsgR1JP
-VVAgQlkgZG9lcyB0aGF0IHBlciBidWNrZXQgaW5zdGVhZCBvZiBmb3IgdGhl
-IHdob2xlIHRhYmxlLgotIFdIRVJFIGZpbHRlcnMgcm93cyBiZWZvcmUgZ3Jv
-dXBpbmc7IEhBVklORyBmaWx0ZXJzIGdyb3VwcyBhZnRlciBhZ2dyZWdhdGlv
-biDigJQgbmV2ZXIgbWl4IHRoZSB0d28gdXAuCi0gT1JERVIgQlkgYW5kIExJ
-TUlUIGFsd2F5cyBjb21lIGxhc3QgaW4gdGhlIGxvZ2ljYWwgb3JkZXIsIHJl
-Z2FyZGxlc3Mgb2Ygd2hlcmUgdGhleSdyZSB3cml0dGVuIGluIHRoZSBzeW50
-YXguCgojIyBTdW1tYXJ5ClRvZGF5IGNvdmVyZWQgdGhlIGNvcmUgU1FMIHJl
-cG9ydGluZyB0b29sa2l0OiBDT1VOVCwgU1VNLCBBVkcsIE1JTiwgTUFYIGNv
-bWJpbmVkIHdpdGggR1JPVVAgQlkgdG8gYnVpbGQgcGVyLXBsYXllciBzdW1t
-YXJpZXMgZnJvbSB0aGUgYG1hdGNoX3N0YXRzYCB0YWJsZSwgYW5kIEhBVklO
-RyB0byBmaWx0ZXIgdGhvc2Ugc3VtbWFyaWVzIGFmdGVyIGFnZ3JlZ2F0aW9u
-LiBUaGUgV0hFUkUtdnMtSEFWSU5HIGRpc3RpbmN0aW9uIOKAlCBmaWx0ZXJp
-bmcgcm93cyBiZWZvcmUgZ3JvdXBpbmcgdnMgZmlsdGVyaW5nIGdyb3VwcyBh
-ZnRlciDigJQgd2FzIHRoZSBtYWluIGludGVydmlldy1yZWxldmFudCBjb25j
-ZXB0LCBwcmFjdGljZWQgdGhyb3VnaCBhIHNlcmllcyBvZiBsZWFkZXJib2Fy
-ZC1zdHlsZSBxdWVyaWVzICh0b3Agc2NvcmVyLCBwbGF5ZXJzIHdpdGggbW9y
-ZSB0aGFuIE4gbWF0Y2hlcywgZmlsdGVyZWQgZ29hbCB0b3RhbHMpIHVzaW5n
-IHRoZSBGQyBMYWhvcmUgTGlvbnMgZGF0YXNldC4K
+# SQL — Aggregates & GROUP BY + HAVING
+
+## Quick Overview
+- **Topic:** SQL aggregate functions (COUNT, SUM, AVG, MIN, MAX) combined with GROUP BY and HAVING
+- **What I learned:** How to summarize raw rows into per-group reports, and the exact difference between filtering *before* grouping (WHERE) vs filtering *after* grouping (HAVING)
+- **Tech/tools used:** SQLite, DB Browser for SQLite, a small `players` / `match_stats` schema (FC Lahore Lions dataset)
+
+## Introduction
+- Up to now, queries returned one row per row in the table (raw rows).
+- Aggregate functions let SQL collapse many rows into a single summary value — total goals, average minutes, etc.
+- GROUP BY takes that one step further: instead of one summary for the whole table, you get one summary **per group** (e.g., per player).
+- This is the single most-tested SQL pattern in data science interviews, because almost every real reporting question ("total revenue per category", "average salary per department") is a GROUP BY + aggregate question.
+
+## Definitions
+- **Aggregate function** — a function that takes many rows and returns one value (COUNT, SUM, AVG, MIN, MAX)
+- **COUNT()** — counts rows (or non-NULL values in a specific column)
+- **SUM()** — adds up all values in a numeric column
+- **AVG()** — calculates the mean of a numeric column
+- **MIN() / MAX()** — smallest / largest value in a column
+- **GROUP BY** — splits the table into buckets based on one or more columns, then runs the aggregate separately for each bucket
+- **HAVING** — a WHERE clause that runs *after* GROUP BY, used to filter the grouped/aggregated results
+- **Logical execution order** for a query with all clauses: `FROM → WHERE → GROUP BY → HAVING → SELECT → ORDER BY → LIMIT`
+
+## Important Concepts
+- **WHERE vs HAVING is the classic interview question:**
+  - `WHERE` filters raw rows **before** grouping happens — it never sees an aggregate value.
+  - `HAVING` filters the grouped rows **after** aggregation — it's the only place you can write `HAVING SUM(goals) > 2`.
+  - Using an aggregate inside WHERE (e.g. `WHERE SUM(goals) > 2`) is a common beginner mistake and will error in SQLite.
+- Every non-aggregated column in SELECT must appear in GROUP BY (SQLite is lenient about this, but most databases enforce it strictly).
+- ORDER BY and LIMIT always run last, after the grouping/filtering is done — they just arrange and trim the final result set.
+- COUNT(*) counts all rows in a group; COUNT(column) only counts non-NULL values in that column — worth knowing when a column can have gaps.
+
+## Step-by-Step Explanation
+1. Start from the source table (`FROM`).
+2. Apply row-level filters first (`WHERE`) — this removes rows before any grouping happens.
+3. Split the remaining rows into buckets (`GROUP BY player_id`).
+4. Run the aggregate function separately inside each bucket (`SUM`, `AVG`, etc.).
+5. Filter the *bucket-level* results (`HAVING`) — this is where aggregate conditions belong.
+6. Sort the final grouped rows (`ORDER BY`).
+7. Trim to the top N rows if needed (`LIMIT`).
+
+## Examples
+- Basic multi-aggregate summary over the whole table:
+  ```sql
+  SELECT
+      COUNT(*) AS total_rows,
+      SUM(goals) AS total_goals,
+      AVG(assists) AS avg_assists
+  FROM match_stats;
+  ```
+- Per-player total goals, sorted highest to lowest:
+  ```sql
+  SELECT
+      player_id,
+      SUM(goals) AS total_goals
+  FROM match_stats
+  GROUP BY player_id
+  ORDER BY total_goals DESC;
+  ```
+- WHERE (before grouping) vs HAVING (after grouping) in the same query:
+  ```sql
+  SELECT
+      player_id,
+      SUM(goals) AS total_goals
+  FROM match_stats
+  WHERE minutes_played >= 60        -- row-level filter, runs first
+  GROUP BY player_id
+  HAVING SUM(goals) > 1             -- group-level filter, runs after
+  ORDER BY total_goals DESC;
+  ```
+- Top scorer only, using AVG + ORDER BY + LIMIT:
+  ```sql
+  SELECT
+      player_id,
+      AVG(minutes_played) AS avg_minutes
+  FROM match_stats
+  GROUP BY player_id
+  ORDER BY avg_minutes DESC
+  LIMIT 1;
+  ```
+
+## Common Mistakes
+- Writing an aggregate condition inside WHERE instead of HAVING (`WHERE SUM(goals) > 2` → error).
+- Forgetting that WHERE and HAVING can both appear in the same query, doing two different jobs.
+- Assuming GROUP BY sorts the output — it doesn't; you still need ORDER BY.
+- Selecting a column that isn't aggregated and isn't in GROUP BY, then being confused about which row's value SQLite picked.
+
+## Interview Questions
+- What's the difference between WHERE and HAVING, and why can't you use an aggregate function in WHERE?
+- Write a query to find the total revenue per product category, showing only categories with revenue over $10,000.
+- What's the difference between COUNT(*) and COUNT(column_name)?
+- What order do SQL clauses logically execute in, and why does that matter for GROUP BY/HAVING?
+
+## Key Takeaways
+- Aggregates collapse rows into a single summary value; GROUP BY does that per bucket instead of for the whole table.
+- WHERE filters rows before grouping; HAVING filters groups after aggregation — never mix the two up.
+- ORDER BY and LIMIT always come last in the logical order, regardless of where they're written in the syntax.
+
+## Summary
+Today covered the core SQL reporting toolkit: COUNT, SUM, AVG, MIN, MAX combined with GROUP BY to build per-player summaries from the `match_stats` table, and HAVING to filter those summaries after aggregation. The WHERE-vs-HAVING distinction — filtering rows before grouping vs filtering groups after — was the main interview-relevant concept, practiced through a series of leaderboard-style queries (top scorer, players with more than N matches, filtered goal totals) using the FC Lahore Lions dataset.
