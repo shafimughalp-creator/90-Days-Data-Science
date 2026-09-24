@@ -1,186 +1,200 @@
-PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3FsYl9w
-cm9qZWN0PjxkYiBwYXRoPSJTUUxfREFZXzM4LmRiIiByZWFkb25seT0iMCIg
-Zm9yZWlnbl9rZXlzPSIxIiBjYXNlX3NlbnNpdGl2ZV9saWtlPSIwIiB0ZW1w
-X3N0b3JlPSIwIiB3YWxfYXV0b2NoZWNrcG9pbnQ9IjEwMDAiIHN5bmNocm9u
-b3VzPSIyIi8+PGF0dGFjaGVkLz48d2luZG93PjxtYWluX3RhYnMgb3Blbj0i
-c3RydWN0dXJlIGJyb3dzZXIgcHJhZ21hcyBxdWVyeSIgY3VycmVudD0iMyIv
-Pjwvd2luZG93Pjx0YWJfc3RydWN0dXJlPjxjb2x1bW5fd2lkdGggaWQ9IjAi
-IHdpZHRoPSIzMDAiLz48Y29sdW1uX3dpZHRoIGlkPSIxIiB3aWR0aD0iMCIv
-Pjxjb2x1bW5fd2lkdGggaWQ9IjIiIHdpZHRoPSIxMDAiLz48Y29sdW1uX3dp
-ZHRoIGlkPSIzIiB3aWR0aD0iMTIyOCIvPjxjb2x1bW5fd2lkdGggaWQ9IjQi
-IHdpZHRoPSIwIi8+PGV4cGFuZGVkX2l0ZW0gaWQ9IjAiIHBhcmVudD0iMSIv
-PjxleHBhbmRlZF9pdGVtIGlkPSIxIiBwYXJlbnQ9IjEiLz48ZXhwYW5kZWRf
-aXRlbSBpZD0iMiIgcGFyZW50PSIxIi8+PGV4cGFuZGVkX2l0ZW0gaWQ9IjMi
-IHBhcmVudD0iMSIvPjwvdGFiX3N0cnVjdHVyZT48dGFiX2Jyb3dzZT48dGFi
-bGUgdGl0bGU9Im1hdGNoX3N0YXRzIiBjdXN0b21fdGl0bGU9IjAiIGRvY2tf
-aWQ9IjEiIHRhYmxlPSI0LDExOm1haW5tYXRjaF9zdGF0cyIvPjxkb2NrX3N0
-YXRlIHN0YXRlPSIwMDAwMDBmZjAwMDAwMDAwZmQwMDAwMDAwMTAwMDAwMDAy
-MDAwMDA0MzUwMDAwMDJkN2ZjMDEwMDAwMDAwMWZiMDAwMDAwMTYwMDY0MDA2
-ZjAwNjMwMDZiMDA0MjAwNzIwMDZmMDA3NzAwNzMwMDY1MDAzMTAxMDAwMDAw
-MDAwMDAwMDQzNTAwMDAwMTExMDBmZmZmZmYwMDAwMDI4NzAwMDAwMDAwMDAw
-MDAwMDQwMDAwMDAwNDAwMDAwMDA4MDAwMDAwMDhmYzAwMDAwMDAwIi8+PGRl
-ZmF1bHRfZW5jb2RpbmcgY29kZWM9IiIvPjxicm93c2VfdGFibGVfc2V0dGlu
-Z3M+PHRhYmxlIHNjaGVtYT0ibWFpbiIgbmFtZT0ibWF0Y2hfc3RhdHMiIHNo
-b3dfcm93X2lkPSIwIiBlbmNvZGluZz0iIiBwbG90X3hfYXhpcz0iIiB1bmxv
-Y2tfdmlld19waz0iX3Jvd2lkXyIgZnJlZXplX2NvbHVtbnM9IjAiPjxzb3J0
-Lz48Y29sdW1uX3dpZHRocz48Y29sdW1uIGluZGV4PSIxIiB2YWx1ZT0iNTYi
-Lz48Y29sdW1uIGluZGV4PSIyIiB2YWx1ZT0iNjkiLz48Y29sdW1uIGluZGV4
-PSIzIiB2YWx1ZT0iNzEiLz48Y29sdW1uIGluZGV4PSI0IiB2YWx1ZT0iNDgi
-Lz48Y29sdW1uIGluZGV4PSI1IiB2YWx1ZT0iNTUiLz48Y29sdW1uIGluZGV4
-PSI2IiB2YWx1ZT0iMTA3Ii8+PC9jb2x1bW5fd2lkdGhzPjxmaWx0ZXJfdmFs
-dWVzLz48Y29uZGl0aW9uYWxfZm9ybWF0cy8+PHJvd19pZF9mb3JtYXRzLz48
-ZGlzcGxheV9mb3JtYXRzLz48aGlkZGVuX2NvbHVtbnMvPjxwbG90X3lfYXhl
-cy8+PGdsb2JhbF9maWx0ZXIvPjwvdGFibGU+PC9icm93c2VfdGFibGVfc2V0
-dGluZ3M+PC90YWJfYnJvd3NlPjx0YWJfc3FsPjxzcWwgbmFtZT0iU1FMIDEq
-Ij4tLSBEcm9wIHRhYmxlcyBpZiB0aGV5IGFscmVhZHkgZXhpc3QgKGNoaWxk
-IHRhYmxlIGZpcnN0LCB0aGVuIHBhcmVudCkNDQpEUk9QIFRBQkxFIElGIEVY
-SVNUUyBtYXRjaF9zdGF0czsNDQpEUk9QIFRBQkxFIElGIEVYSVNUUyBwbGF5
-ZXJzOw0NCg0NCi0tIENyZWF0ZSB0aGUgcGxheWVycyB0YWJsZQ0NCkNSRUFU
-RSBUQUJMRSBwbGF5ZXJzICgNDQogICAgcGxheWVyX2lkIElOVEVHRVIgUFJJ
-TUFSWSBLRVksDQ0KICAgIG5hbWUgVEVYVCwNDQogICAgcG9zaXRpb24gVEVY
-VA0NCik7DQ0KDQ0KLS0gQ3JlYXRlIHRoZSBtYXRjaF9zdGF0cyB0YWJsZQ0N
-CkNSRUFURSBUQUJMRSBtYXRjaF9zdGF0cyAoDQ0KICAgIHN0YXRfaWQgSU5U
-RUdFUiBQUklNQVJZIEtFWSwNDQogICAgbWF0Y2hfaWQgSU5URUdFUiwNDQog
-ICAgcGxheWVyX2lkIElOVEVHRVIsDQ0KICAgIGdvYWxzIElOVEVHRVIsDQ0K
-ICAgIGFzc2lzdHMgSU5URUdFUiwNDQogICAgbWludXRlc19wbGF5ZWQgSU5U
-RUdFUiwNDQogICAgRk9SRUlHTiBLRVkocGxheWVyX2lkKSBSRUZFUkVOQ0VT
-IHBsYXllcnMocGxheWVyX2lkKQ0NCik7DQ0KDQ0KLS0gSW5zZXJ0IG91ciBz
-dGFydGluZyBsaW5ldXANDQpJTlNFUlQgSU5UTyBwbGF5ZXJzIChwbGF5ZXJf
-aWQsIG5hbWUsIHBvc2l0aW9uKSBWQUxVRVMgDQ0KKDEsICdUYXJpcScsICdT
-dHJpa2VyJyksDQ0KKDIsICdTaGFmaScsICdMZWZ0IFdpbmdlcicpLA0NCigz
-LCAnQWhtZWQnLCAnTWlkZmllbGRlcicpOw0NCg0NCi0tIEluc2VydCBzb21l
-IG1hdGNoIGRhdGENDQpJTlNFUlQgSU5UTyBtYXRjaF9zdGF0cyAoc3RhdF9p
-ZCwgbWF0Y2hfaWQsIHBsYXllcl9pZCwgZ29hbHMsIGFzc2lzdHMsIG1pbnV0
-ZXNfcGxheWVkKSBWQUxVRVMgDQ0KKDEsIDEwMSwgMiwgMSwgMSwgOTApLA0N
-CigyLCAxMDIsIDIsIDAsIDIsIDg1KSwNDQooMywgMTAzLCAyLCAyLCAwLCA3
-NSksDQ0KKDQsIDEwMSwgMSwgMiwgMCwgOTApLA0NCig1LCAxMDIsIDEsIDEs
-IDAsIDkwKTsNDQoNDQpTRUxFQ1QgDQ0KICAgIENPVU5UKCopIEFTIHRvdGFs
-X3Jvd3MsICAgICAgICAgLS0gY291bnRzIGV2ZXJ5IHJvdyBpbiB0aGUgdGFi
-bGUsIGFsaWFzZWQNDQogICAgU1VNKGdvYWxzKSBBUyB0b3RhbF9nb2Fscywg
-ICAgICAtLSBhZGRzIHVwIGFsbCB0aGUgdmFsdWVzIGluIHRoZSBnb2FscyBj
-b2x1bW4NDQogICAgQVZHKGFzc2lzdHMpIEFTIGF2Z19hc3Npc3RzICAgICAt
-LSBjYWxjdWxhdGVzIHRoZSBhdmVyYWdlIG9mIHRoZSBhc3Npc3RzIGNvbHVt
-bg0NCkZST00gbWF0Y2hfc3RhdHM7ICAgICAgICAgICAgICAgICAgIC0tIHNv
-dXJjZSB0YWJsZSAocnVucyBmaXJzdCwgbG9naWNhbGx5KQ0NCg0NCi0tLSBV
-c2luZyB0aGUgbWF0Y2hfc3RhdHMgdGFibGUsIHdyaXRlIGEgc2luZ2xlIHF1
-ZXJ5IHRoYXQgcmV0dXJuczoNDQoNDQotLS0gVGhlIG1heGltdW0gKE1BWCkg
-bWludXRlcyBwbGF5ZWQgaW4gYSBzaW5nbGUgbWF0Y2guDQ0KDQ0KLS0tIFRo
-ZSBtaW5pbXVtIChNSU4pIG1pbnV0ZXMgcGxheWVkIGluIGEgc2luZ2xlIG1h
-dGNoLg0NCg0NCi0tLSBUaGUgdG90YWwgKFNVTSkgb2YgYWxsIGFzc2lzdHMg
-YWNyb3NzIGFsbCBtYXRjaGVzLg0NCg0NClNFTEVDVCANDQogICAgIG1heCht
-aW51dGVzX3BsYXllZCkgQVMgTUFYX01JTlVURVMgLA0NCgkgbWluKG1pbnV0
-ZXNfcGxheWVkKSBBUyBNSU5fTUlOVVRFUyAsDQ0KCSBzdW0oYXNzaXN0cykg
-QVMgVE9UQUxfQVNTSVNUUyANDQpGUk9NIG1hdGNoX3N0YXRzIDsJIA0NCg0N
-ClNFTEVDVCANDQogICAgcGxheWVyX2lkLCAgICAgICAgICAgICAgICAgICAg
-ICAtLSBUaGUgY29sdW1uIHdlIGFyZSBncm91cGluZyBieQ0NCiAgICBTVU0o
-Z29hbHMpIEFTIHRvdGFsX2dvYWxzICAgICAgIC0tIFRoZSBhZ2dyZWdhdGUg
-ZnVuY3Rpb24gYXBwbGllZCB0byBlYWNoIGdyb3VwDQ0KRlJPTSBtYXRjaF9z
-dGF0cyAgICAgICAgICAgICAgICAgICAgLS0gVGhlIHNvdXJjZSB0YWJsZQ0N
-CkdST1VQIEJZIHBsYXllcl9pZDsgICAgICAgICAgICAgICAgIC0tIFNwbGl0
-cyB0aGUgZGF0YSBpbnRvIGJ1Y2tldHMgcGVyIHBsYXllcg0NCg0NCg0NClNF
-TEVDVCANDQogICAgcGxheWVyX2lkLCAgICAgICAgICAgICAgICAgICAgICAg
-ICAgICAgICAtLSBDb2x1bW4gd2UgYXJlIGdyb3VwaW5nIGJ5DQ0KICAgIFNV
-TShnb2FscykgQVMgdG90YWxfZ29hbHMgICAgICAgICAgICAgICAgLS0gQWdn
-cmVnYXRlIGZvciB0aGUgZ3JvdXANDQpGUk9NIG1hdGNoX3N0YXRzICAgICAg
-ICAgICAgICAgICAgICAgICAgICAgICAtLSBTb3VyY2UgdGFibGUNDQpXSEVS
-RSBtaW51dGVzX3BsYXllZCA9IDkwICAgICAgICAgICAgICAgICAgICAtLSBG
-aWx0ZXJzIHJhdyByb3dzIEZJUlNUIChkcm9wcyB0aGUgODUgbWluIGFuZCA3
-NSBtaW4gZ2FtZXMpDQ0KR1JPVVAgQlkgcGxheWVyX2lkOyAgICAgICAgICAg
-ICAgICAgICAgICAgICAgLS0gR3JvdXBzIHRoZSByZW1haW5pbmcgcm93cw0N
-Cg0NCi0tLSBMZXQncyB0ZXN0IHRoaXMgY29tYmluYXRpb24uIFVzaW5nIHRo
-ZSBtYXRjaF9zdGF0cyB0YWJsZSwgd3JpdGUgYSBzaW5nbGUgcXVlcnkgdGhh
-dCByZXR1cm5zOg0NCg0NCi0tLSBUaGUgcGxheWVyX2lkLg0NCg0NCi0tLSBU
-aGUgdG90YWwgbnVtYmVyIG9mIG1hdGNoZXMgdGhleSBwbGF5ZWQgKENPVU5U
-KS4NDQoNDQotLS0gVGhlIHRvdGFsIGFzc2lzdHMgdGhleSBwcm92aWRlZCAo
-U1VNKS4NDQoNDQpTRUxFQ1QNDQogICAgcGxheWVyX2lkICwNDQoJY291bnQo
-bWF0Y2hfaWQpIEFTIFRPVEFMX01BVENIRVMgLA0NCglzdW0oYXNzaXN0cykg
-QVMgQVNTSVNUU19QUk9WSURFRA0NCkZST00gbWF0Y2hfc3RhdHMNDQpXSEVS
-RSBnb2FscyAmZ3Q7PSAxIA0NCkdST1VQIEJZIHBsYXllcl9pZCA7ICANDQoN
-DQoNDQpTRUxFQ1QgDQ0KICAgIHBsYXllcl9pZCwgICAgICAgICAgICAgICAg
-ICAgICAgLS0gR3JvdXBpbmcgY29sdW1uDQ0KICAgIFNVTShnb2FscykgQVMg
-dG90YWxfZ29hbHMgICAgICAgLS0gQWdncmVnYXRlIG1hdGgNDQpGUk9NIG1h
-dGNoX3N0YXRzICAgICAgICAgICAgICAgICAgICAtLSBTb3VyY2UgdGFibGUg
-KHJ1bnMgMXN0KQ0NCkdST1VQIEJZIHBsYXllcl9pZCAgICAgICAgICAgICAg
-ICAgIC0tIEdyb3VwcyB0aGUgcm93cyAocnVucyAybmQpDQ0KSEFWSU5HIFNV
-TShnb2FscykgJmd0OyAyOyAgICAgICAgICAgICAgLS0gRmlsdGVycyB0aGUg
-Z3JvdXBlZCByZXN1bHRzIChydW5zIDNyZCkNDQoNDQotLS0gTGV0J3MgY29t
-YmluZSB0aGVzZSBjb25jZXB0cyBpbnRvIGEgc2luZ2xlIHF1ZXJ5LiBVc2lu
-ZyB0aGUgbWF0Y2hfc3RhdHMgdGFibGUsIHdyaXRlIGEgcXVlcnkgdGhhdCBy
-ZXR1cm5zOg0NCg0NCi0tLSBUaGUgcGxheWVyX2lkLg0NCg0NCi0tLSBUaGVp
-ciB0b3RhbCBhc3Npc3RzIChTVU0pLg0NCg0NCi0tLSBUaGUgY2F0Y2g6IFRo
-ZSBtYW5hZ2VyIG9ubHkgd2FudHMgdG8gc2VlIHRoaXMgZGF0YSBmb3IgcGxh
-eWVycyB3aG8gaGF2ZSBwbGF5ZWQgbW9yZSB0aGFuIDIgbWF0Y2hlcyBpbiB0
-b3RhbCAoQ09VTlQpLg0NCg0NClNFTEVDVCANDQogICAgIHBsYXllcl9pZCAs
-DQ0KCSBzdW0oYXNzaXN0cykgQVMgVE9UQUxfQVNTSVNUUyANDQpGUk9NIG1h
-dGNoX3N0YXRzDQ0KR1JPVVAgQlkgcGxheWVyX2lkDQ0KSEFWSU5HIGNvdW50
-KG1hdGNoX2lkKSAmZ3Q7IDIgOwkgDQ0KDQ0KU0VMRUNUIA0NCiAgICBwbGF5
-ZXJfaWQsIA0NCiAgICBTVU0obWludXRlc19wbGF5ZWQpIEFTIHRvdGFsX21p
-bnV0ZXMNDQpGUk9NIG1hdGNoX3N0YXRzDQ0KR1JPVVAgQlkgcGxheWVyX2lk
-IA0NCkhBVklORyBTVU0obWludXRlc19wbGF5ZWQpICZndDsgMTAwIDsNDQoN
-DQoNDQpTRUxFQ1QgDQ0KICAgIHBsYXllcl9pZCwgDQ0KICAgIFNVTShnb2Fs
-cykgQVMgdG90YWxfZ29hbHMgICAgICAgLS0gMy4gY2FsY3VsYXRlIHRoZSBz
-dW0gZm9yIGVhY2ggYnVja2V0DQ0KRlJPTSBtYXRjaF9zdGF0cyAgICAgICAg
-ICAgICAgICAgICAgLS0gMS4gcHVsbCBmcm9tIHRoZSBzb3VyY2UgdGFibGUN
-DQpHUk9VUCBCWSBwbGF5ZXJfaWQgICAgICAgICAgICAgICAgICAtLSAyLiBn
-cm91cCBpbnRvIHBsYXllciBidWNrZXRzDQ0KT1JERVIgQlkgdG90YWxfZ29h
-bHMgREVTQzsgICAgICAgICAgLS0gNC4gc29ydCB0aGUgZmluYWwgZ3JvdXBl
-ZCByZXN1bHRzIGhpZ2hlc3QgdG8gbG93ZXN0DQ0KDQ0KDQ0KLS0tIFVzaW5n
-IHRoZSBtYXRjaF9zdGF0cyB0YWJsZSwgcmV0dXJuIHRoZSBwbGF5ZXJfaWQg
-YW5kIHRoZWlyIGF2ZXJhZ2UgbWludXRlcyBwbGF5ZWQgKEFWRykuDQ0KLS0t
-ICBTb3J0IHRoZSByZXN1bHRzIHNvIHRoZSBwbGF5ZXIgd2l0aCB0aGUgaGln
-aGVzdCBhdmVyYWdlIGlzIGF0IHRoZSB2ZXJ5IHRvcCwgYW5kIHVzZSBMSU1J
-VCB0byBzaG93IG9ubHkgdGhhdCAjMSBwbGF5ZXIuDQ0KIA0NClNFTEVDVCAN
-DQogICAgcGxheWVyX2lkLCANDQogICAgQVZHKG1pbnV0ZXNfcGxheWVkKSBB
-UyBBVkVSQUdFX01JTiAgLS0gMy4gQ2FsY3VsYXRlIHRoZSBhdmVyYWdlIGZv
-ciBlYWNoIGJ1Y2tldA0NCkZST00gbWF0Y2hfc3RhdHMgICAgICAgICAgICAg
-ICAgICAgICAgICAtLSAxLiBQdWxsIGZyb20gdGhlIHNvdXJjZSB0YWJsZQ0N
-CkdST1VQIEJZIHBsYXllcl9pZCAgICAgICAgICAgICAgICAgICAgICAtLSAy
-LiBHcm91cCBpbnRvIGluZGl2aWR1YWwgcGxheWVyIGJ1Y2tldHMgDQ0KT1JE
-RVIgQlkgQVZFUkFHRV9NSU4gREVTQyAgICAgICAgICAgICAgIC0tIDQuIFNv
-cnQgdGhlIGZpbmFsIGdyb3VwZWQgcmVzdWx0cyBoaWdoZXN0IHRvIGxvd2Vz
-dA0NCkxJTUlUIDE7ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAt
-LSA1LiBLZWVwIG9ubHkgdGhlIHRvcCByb3cgKG5vIGVxdWFscyBzaWduKQ0N
-Cg0NCg0NClNFTEVDVA0NCiAgICAgcGxheWVyX2lkICwNDQoJIFNVTShhc3Np
-c3RzKSBBUyBUT1RBTF9BU1NJVFMgDQ0KRlJPTSBtYXRjaF9zdGF0cw0NCldI
-RVJFIG1pbnV0ZXNfcGxheWVkICZndDs9IDQ1IA0NCkdST1VQIEJZIHBsYXll
-cl9pZA0NCkhBVklORyBzdW0oYXNzaXN0cykgJmd0Oz0gMiA7IA0NCgkgDQ0K
-LS0tIFVzaW5nIHRoZSBtYXRjaF9zdGF0cyB0YWJsZSwgcmV0dXJuIHRoZSBw
-bGF5ZXJfaWQgYW5kIHRoZWlyIHRvdGFsIGdvYWxzIChTVU0pLg0NCg0NCi0t
-LSBGaWx0ZXIgb3V0IGFueSBtYXRjaGVzIHdoZXJlIHRoZXkgcGxheWVkIDYw
-IG1pbnV0ZXMgb3IgbGVzcy4NDQoNDQotLS0gR3JvdXAgdGhlIHJlbWFpbmlu
-ZyBkYXRhIGJ5IHBsYXllci4NDQoNDQotLS0gRmlsdGVyIHRoZSBmaW5hbCBn
-cm91cGVkIHJlc3VsdHMgdG8gb25seSBzaG93IHBsYXllcnMgd2l0aCBtb3Jl
-IHRoYW4gMSB0b3RhbCBnb2FsLg0NCg0NCi0tLSBTb3J0IHRoZSBmaW5hbCBs
-ZWFkZXJib2FyZCBzbyB0aGUgcGxheWVyIHdpdGggdGhlIG1vc3QgZ29hbHMg
-aXMgYXQgdGhlIHRvcC4JIA0NCg0NClNFTEVDVCANDQogICAgcGxheWVyX2lk
-ICwNDQoJU1VNKGdvYWxzKSBBUyBUT1RBTF9HT0FMUyANDQpGUk9NIG1hdGNo
-X3N0YXRzDQ0KV0hFUkUgbWludXRlc19wbGF5ZWQgJmd0Oz0gNjAgDQ0KR1JP
-VVAgQlkgcGxheWVyX2lkDQ0KSEFWSU5HIHN1bShnb2FscykgJmd0OyAxIA0N
-Ck9SREVSIEJZIFRPVEFMX0dPQUxTIERFU0MgOyAJDQ0KDQ0KLS0tIFVzaW5n
-IHRoZSBtYXRjaF9zdGF0cyB0YWJsZSwgZ2VuZXJhdGUgYSByZXBvcnQgdGhh
-dCByZXR1cm5zOg0NCg0NCi0tLSBUaGUgcGxheWVyX2lkLg0NCg0NCi0tLSBU
-aGVpciB0b3RhbCBtYXRjaGVzIHBsYXllZCAoQ09VTlQpLg0NCg0NCi0tLSBU
-aGVpciB0b3RhbCBnb2FscyBzY29yZWQgKFNVTSkuDQ0KDQ0KLS0tIFRoZWly
-IGF2ZXJhZ2UgbWludXRlcyBwbGF5ZWQgYWNyb3NzIHRob3NlIG1hdGNoZXMg
-KEFWRykuDQ0KDQ0KU0VMRUNUIA0NCiAgIHBsYXllcl9pZCAsDQ0KICAgY291
-bnQobWF0Y2hfaWQpIEFTIE1BVENIRVNfUExBWUVEICwNDQogICBTVU0oZ29h
-bHMpIEFTIEdPQUxTX1NDT1JFRCAsDQ0KICAgQVZHKG1pbnV0ZXNfcGxheWVk
-KSBBUyBUT1RBTF9NSU5VVEVTIA0NCkZST00gbWF0Y2hfc3RhdHMNDQoNDQot
-LS0gQmVmb3JlIGNhbGN1bGF0aW5nIGFueXRoaW5nOiBFeGNsdWRlIGFueSAm
-cXVvdDtnaG9zdCZxdW90OyBhcHBlYXJhbmNlcy4gT25seSBpbmNsdWRlIG1h
-dGNoZXMgd2hlcmUgdGhlIHBsYXllciB3YXMgb24gdGhlIHBpdGNoIGZvciBt
-b3JlIHRoYW4gMTAgbWludXRlcyAoV0hFUkUpLg0NCg0NCi0tLSBHcm91cCB0
-aGUgZGF0YTogR3JvdXAgdGhlIHJlbWFpbmluZyB2YWxpZCBtYXRjaGVzIGJ5
-IHBsYXllciAoR1JPVVAgQlkpLg0NCg0NCi0tLSBBZnRlciBncm91cGluZzog
-VGhlIGRpcmVjdG9yIG9ubHkgd2FudHMgdG8gc2VlIHBsYXllcnMgd2hvc2Ug
-YXZlcmFnZSBtaW51dGVzIHBsYXllZCBpcyBncmVhdGVyIHRoYW4gNDUgKEhB
-VklORykuDQ0KDQ0KLS0tIEZvcm1hdHRpbmcgdGhlIHJlcG9ydDogU29ydCB0
-aGUgZmluYWwgbGlzdCBzbyB0aGUgcGxheWVyIHdpdGggdGhlIGhpZ2hlc3Qg
-dG90YWwgZ29hbHMgaXMgYXQgdGhlIHRvcCAoT1JERVIgQlkpLg0NCg0NCi0t
-LSBUaGUgQ3V0b2ZmOiBUaGUgZGlyZWN0b3Igb25seSB3YW50cyB0byBzZWUg
-dGhlIHRvcCAyIHBsYXllcnMgb24gdGhpcyBsaXN0IChMSU1JVCkuICAgDQ0K
-DQ0KV0hFUkUgbWludXRlc19wbGF5ZWQgJmd0OyAxMCANDQoNDQpHUk9VUCBC
-WSBwbGF5ZXJfaWQgDQ0KDQ0KSEFWSU5HIFRPVEFMX01JTlVURVMgJmd0OyA0
-NSANDQoNDQpPUkRFUiBCWSBHT0FMU19TQ09SRUQgREVTQyANDQoNDQpMSU1J
-VCAyIDs8L3NxbD48Y3VycmVudF90YWIgaWQ9IjAiLz48L3RhYl9zcWw+PC9z
-cWxiX3Byb2plY3Q+DQo=
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="SQL_DAY_38.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="1228"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><table title="match_stats" custom_title="0" dock_id="1" table="4,11:mainmatch_stats"/><dock_state state="000000ff00000000fd000000010000000200000435000002d7fc0100000001fb000000160064006f0063006b00420072006f00770073006500310100000000000004350000011100ffffff000002870000000000000004000000040000000800000008fc00000000"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="match_stats" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="56"/><column index="2" value="69"/><column index="3" value="71"/><column index="4" value="48"/><column index="5" value="55"/><column index="6" value="107"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="SQL 1*">-- Drop tables if they already exist (child table first, then parent)
+DROP TABLE IF EXISTS match_stats;
+DROP TABLE IF EXISTS players;
+
+-- Create the players table
+CREATE TABLE players (
+    player_id INTEGER PRIMARY KEY,
+    name TEXT,
+    position TEXT
+);
+
+-- Create the match_stats table
+CREATE TABLE match_stats (
+    stat_id INTEGER PRIMARY KEY,
+    match_id INTEGER,
+    player_id INTEGER,
+    goals INTEGER,
+    assists INTEGER,
+    minutes_played INTEGER,
+    FOREIGN KEY(player_id) REFERENCES players(player_id)
+);
+
+-- Insert our starting lineup
+INSERT INTO players (player_id, name, position) VALUES 
+(1, 'Tariq', 'Striker'),
+(2, 'Shafi', 'Left Winger'),
+(3, 'Ahmed', 'Midfielder');
+
+-- Insert some match data
+INSERT INTO match_stats (stat_id, match_id, player_id, goals, assists, minutes_played) VALUES 
+(1, 101, 2, 1, 1, 90),
+(2, 102, 2, 0, 2, 85),
+(3, 103, 2, 2, 0, 75),
+(4, 101, 1, 2, 0, 90),
+(5, 102, 1, 1, 0, 90);
+
+SELECT 
+    COUNT(*) AS total_rows,         -- counts every row in the table, aliased
+    SUM(goals) AS total_goals,      -- adds up all the values in the goals column
+    AVG(assists) AS avg_assists     -- calculates the average of the assists column
+FROM match_stats;                   -- source table (runs first, logically)
+
+--- Using the match_stats table, write a single query that returns:
+
+--- The maximum (MAX) minutes played in a single match.
+
+--- The minimum (MIN) minutes played in a single match.
+
+--- The total (SUM) of all assists across all matches.
+
+SELECT 
+     max(minutes_played) AS MAX_MINUTES ,
+	 min(minutes_played) AS MIN_MINUTES ,
+	 sum(assists) AS TOTAL_ASSISTS 
+FROM match_stats ;	 
+
+SELECT 
+    player_id,                      -- The column we are grouping by
+    SUM(goals) AS total_goals       -- The aggregate function applied to each group
+FROM match_stats                    -- The source table
+GROUP BY player_id;                 -- Splits the data into buckets per player
+
+
+SELECT 
+    player_id,                               -- Column we are grouping by
+    SUM(goals) AS total_goals                -- Aggregate for the group
+FROM match_stats                             -- Source table
+WHERE minutes_played = 90                    -- Filters raw rows FIRST (drops the 85 min and 75 min games)
+GROUP BY player_id;                          -- Groups the remaining rows
+
+--- Let's test this combination. Using the match_stats table, write a single query that returns:
+
+--- The player_id.
+
+--- The total number of matches they played (COUNT).
+
+--- The total assists they provided (SUM).
+
+SELECT
+    player_id ,
+	count(match_id) AS TOTAL_MATCHES ,
+	sum(assists) AS ASSISTS_PROVIDED
+FROM match_stats
+WHERE goals &gt;= 1 
+GROUP BY player_id ;  
+
+
+SELECT 
+    player_id,                      -- Grouping column
+    SUM(goals) AS total_goals       -- Aggregate math
+FROM match_stats                    -- Source table (runs 1st)
+GROUP BY player_id                  -- Groups the rows (runs 2nd)
+HAVING SUM(goals) &gt; 2;              -- Filters the grouped results (runs 3rd)
+
+--- Let's combine these concepts into a single query. Using the match_stats table, write a query that returns:
+
+--- The player_id.
+
+--- Their total assists (SUM).
+
+--- The catch: The manager only wants to see this data for players who have played more than 2 matches in total (COUNT).
+
+SELECT 
+     player_id ,
+	 sum(assists) AS TOTAL_ASSISTS 
+FROM match_stats
+GROUP BY player_id
+HAVING count(match_id) &gt; 2 ;	 
+
+SELECT 
+    player_id, 
+    SUM(minutes_played) AS total_minutes
+FROM match_stats
+GROUP BY player_id 
+HAVING SUM(minutes_played) &gt; 100 ;
+
+
+SELECT 
+    player_id, 
+    SUM(goals) AS total_goals       -- 3. calculate the sum for each bucket
+FROM match_stats                    -- 1. pull from the source table
+GROUP BY player_id                  -- 2. group into player buckets
+ORDER BY total_goals DESC;          -- 4. sort the final grouped results highest to lowest
+
+
+--- Using the match_stats table, return the player_id and their average minutes played (AVG).
+---  Sort the results so the player with the highest average is at the very top, and use LIMIT to show only that #1 player.
+ 
+SELECT 
+    player_id, 
+    AVG(minutes_played) AS AVERAGE_MIN  -- 3. Calculate the average for each bucket
+FROM match_stats                        -- 1. Pull from the source table
+GROUP BY player_id                      -- 2. Group into individual player buckets 
+ORDER BY AVERAGE_MIN DESC               -- 4. Sort the final grouped results highest to lowest
+LIMIT 1;                                -- 5. Keep only the top row (no equals sign)
+
+
+SELECT
+     player_id ,
+	 SUM(assists) AS TOTAL_ASSITS 
+FROM match_stats
+WHERE minutes_played &gt;= 45 
+GROUP BY player_id
+HAVING sum(assists) &gt;= 2 ; 
+	 
+--- Using the match_stats table, return the player_id and their total goals (SUM).
+
+--- Filter out any matches where they played 60 minutes or less.
+
+--- Group the remaining data by player.
+
+--- Filter the final grouped results to only show players with more than 1 total goal.
+
+--- Sort the final leaderboard so the player with the most goals is at the top.	 
+
+SELECT 
+    player_id ,
+	SUM(goals) AS TOTAL_GOALS 
+FROM match_stats
+WHERE minutes_played &gt;= 60 
+GROUP BY player_id
+HAVING sum(goals) &gt; 1 
+ORDER BY TOTAL_GOALS DESC ; 	
+
+--- Using the match_stats table, generate a report that returns:
+
+--- The player_id.
+
+--- Their total matches played (COUNT).
+
+--- Their total goals scored (SUM).
+
+--- Their average minutes played across those matches (AVG).
+
+SELECT 
+   player_id ,
+   count(match_id) AS MATCHES_PLAYED ,
+   SUM(goals) AS GOALS_SCORED ,
+   AVG(minutes_played) AS TOTAL_MINUTES 
+FROM match_stats
+
+--- Before calculating anything: Exclude any &quot;ghost&quot; appearances. Only include matches where the player was on the pitch for more than 10 minutes (WHERE).
+
+--- Group the data: Group the remaining valid matches by player (GROUP BY).
+
+--- After grouping: The director only wants to see players whose average minutes played is greater than 45 (HAVING).
+
+--- Formatting the report: Sort the final list so the player with the highest total goals is at the top (ORDER BY).
+
+--- The Cutoff: The director only wants to see the top 2 players on this list (LIMIT).   
+
+WHERE minutes_played &gt; 10 
+
+GROUP BY player_id 
+
+HAVING TOTAL_MINUTES &gt; 45 
+
+ORDER BY GOALS_SCORED DESC 
+
+LIMIT 2 ;</sql><current_tab id="0"/></tab_sql></sqlb_project>
