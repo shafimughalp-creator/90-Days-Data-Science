@@ -1,64 +1,83 @@
-LS0gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
-PT09PT09PT09PT09PT09PT09Ci0tIERheSA0MSDigJQgU1FMOiBDQVNFIFdI
-RU4sIERhdGUgJiBTdHJpbmcgRnVuY3Rpb25zCi0tIERhdGFzZXQ6IEZDIExh
-aG9yZSBMaW9ucyAodGVhbXMgLyBwbGF5ZXJzIC8gbWF0Y2hlcyAvIG1hdGNo
-X3N0YXRzKQotLSA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
-PT09PT09PT09PT09PT09PT09PT09PT09PT0KCi0tIC0tLS0tLS0tLS0tLS0t
-LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
-LQotLSAxLiBDQVNFIFdIRU4g4oCUIHZhbHVlIGJ1Y2tldGluZwotLSBCdWNr
-ZXQgZWFjaCBwbGF5ZXIgaW50byBhIHBlcmZvcm1hbmNlIHRpZXIgYmFzZWQg
-b24gZ29hbHMgc2NvcmVkLgotLSAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
-LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KU0VMRUNUCiAg
-ICBuYW1lLAogICAgZ29hbHMsCiAgICBDQVNFCiAgICAgICAgV0hFTiBnb2Fs
-cyA+PSAxNSBUSEVOICdUb3AgU2NvcmVyJwogICAgICAgIFdIRU4gZ29hbHMg
-Pj0gOCAgVEhFTiAnUmVndWxhcicKICAgICAgICBFTFNFICdCZW5jaCcKICAg
-IEVORCBBUyB0aWVyCkZST00gcGxheWVycwpPUkRFUiBCWSBnb2FscyBERVND
-OwoKCi0tIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
-LS0tLS0tLS0tLS0tLS0tLS0tLS0tLQotLSAyLiBDb25kaXRpb25hbCBhZ2dy
-ZWdhdGlvbiDigJQgU1VNKENBU0UgV0hFTiAuLi4pCi0tIFBpdm90LXN0eWxl
-IHJlcG9ydGluZzogd2lucyBhbmQgbG9zc2VzIHBlciB0ZWFtLCBpbiBvbmUg
-cXVlcnksCi0tIHdpdGhvdXQgYSBzdWJxdWVyeSBvciBhIHNlcGFyYXRlIHF1
-ZXJ5IHBlciBvdXRjb21lLgotLSAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
-LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KU0VMRUNUCiAg
-ICB0ZWFtX25hbWUsCiAgICBTVU0oQ0FTRSBXSEVOIHJlc3VsdCA9ICdXJyBU
-SEVOIDEgRUxTRSAwIEVORCkgQVMgd2lucywKICAgIFNVTShDQVNFIFdIRU4g
-cmVzdWx0ID0gJ0wnIFRIRU4gMSBFTFNFIDAgRU5EKSBBUyBsb3NzZXMKRlJP
-TSBtYXRjaGVzCkpPSU4gdGVhbXMgT04gdGVhbXMudGVhbV9pZCA9IG1hdGNo
-ZXMudGVhbV9pZApHUk9VUCBCWSB0ZWFtX25hbWU7CgoKLS0gLS0tLS0tLS0t
-LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
-LS0tLS0tCi0tIDMuIERhdGUgZnVuY3Rpb25zIOKAlCBzdHJmdGltZSgpCi0t
-IEdyb3VwIG1hdGNoZXMgYnkgbW9udGgveWVhciB3aXRob3V0IHRvdWNoaW5n
-IHRoZSByYXcgZGF0ZSBjb2x1bW4uCi0tIC0tLS0tLS0tLS0tLS0tLS0tLS0t
-LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpTRUxF
-Q1QKICAgIHN0cmZ0aW1lKCclWS0lbScsIG1hdGNoX2RhdGUpIEFTIG1vbnRo
-LAogICAgQ09VTlQoKikgQVMgbWF0Y2hlc19wbGF5ZWQKRlJPTSBtYXRjaGVz
-CkdST1VQIEJZIG1vbnRoCk9SREVSIEJZIG1vbnRoOwoKCi0tIC0tLS0tLS0t
-LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
-LS0tLS0tLQotLSA0LiBTdHJpbmcgZnVuY3Rpb25zIOKAlCBTVUJTVFIoKSwg
-VVBQRVIoKSwgTE9XRVIoKQotLSBCdWlsZCBhIHNob3J0IHBsYXllciBjb2Rl
-IGFuZCBub3JtYWxpemUgcG9zaXRpb24gY2FzaW5nLgotLSAtLS0tLS0tLS0t
-LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
-LS0tLS0KU0VMRUNUCiAgICBuYW1lLAogICAgVVBQRVIoU1VCU1RSKG5hbWUs
-IDEsIDMpKSBBUyBjb2RlLAogICAgTE9XRVIocG9zaXRpb24pIEFTIHBvc2l0
-aW9uX2NsZWFuCkZST00gcGxheWVycwpMSU1JVCA1OwoKCi0tIC0tLS0tLS0t
-LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
-LS0tLS0tLQotLSA1LiBTdHJpbmcgY29uY2F0ZW5hdGlvbiDigJQgfHwKLS0g
-Q29tYmluZSB0d28gY29sdW1ucyBpbnRvIG9uZSByZWFkYWJsZSBsYWJlbC4K
-LS0gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
-LS0tLS0tLS0tLS0tLS0tLS0tClNFTEVDVAogICAgbmFtZSB8fCAnICgnIHx8
-IHBvc2l0aW9uIHx8ICcpJyBBUyBwbGF5ZXJfdGFnCkZST00gcGxheWVycwpP
-UkRFUiBCWSBuYW1lOwoKCi0tIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
-LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQotLSA2LiBNaW5p
-IFByb2plY3Qg4oCUIE1vbnRobHkgUGVyZm9ybWFuY2UgUmVwb3J0Ci0tIENv
-bWJpbmUgQ0FTRSBXSEVOIChjb25kaXRpb25hbCBhZ2dyZWdhdGlvbikgd2l0
-aCBhIGRhdGUgZnVuY3Rpb24KLS0gKG1vbnRoIGdyb3VwaW5nKSBpbiBhIHNp
-bmdsZSBxdWVyeTogdGhpcyBpcyB0aGUgZXhhY3Qgc2hhcGUgb2YgYQotLSBy
-ZXBvcnRpbmcgcXVlcnkgdXNlZCBpbiBmcmVlbGFuY2UgLyBhbmFseXN0IGRh
-c2hib2FyZCB3b3JrLgotLSAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
-LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KU0VMRUNUCiAgICBz
-dHJmdGltZSgnJVktJW0nLCBtYXRjaF9kYXRlKSBBUyBtb250aCwKICAgIFNV
-TShDQVNFIFdIRU4gcmVzdWx0ID0gJ1cnIFRIRU4gMSBFTFNFIDAgRU5EKSBB
-UyB3aW5zLAogICAgU1VNKENBU0UgV0hFTiByZXN1bHQgPSAnTCcgVEhFTiAx
-IEVMU0UgMCBFTkQpIEFTIGxvc3NlcywKICAgIFNVTShDQVNFIFdIRU4gcmVz
-dWx0ID0gJ0QnIFRIRU4gMSBFTFNFIDAgRU5EKSBBUyBkcmF3cwpGUk9NIG1h
-dGNoZXMKR1JPVVAgQlkgbW9udGgKT1JERVIgQlkgbW9udGg7Cg==
+-- ============================================================
+-- Day 41 — SQL: CASE WHEN, Date & String Functions
+-- Dataset: FC Lahore Lions (teams / players / matches / match_stats)
+-- ============================================================
+
+-- ------------------------------------------------------------
+-- 1. CASE WHEN — value bucketing
+-- Bucket each player into a performance tier based on goals scored.
+-- ------------------------------------------------------------
+SELECT
+    name,
+    goals,
+    CASE
+        WHEN goals >= 15 THEN 'Top Scorer'
+        WHEN goals >= 8  THEN 'Regular'
+        ELSE 'Bench'
+    END AS tier
+FROM players
+ORDER BY goals DESC;
+
+
+-- ------------------------------------------------------------
+-- 2. Conditional aggregation — SUM(CASE WHEN ...)
+-- Pivot-style reporting: wins and losses per team, in one query,
+-- without a subquery or a separate query per outcome.
+-- ------------------------------------------------------------
+SELECT
+    team_name,
+    SUM(CASE WHEN result = 'W' THEN 1 ELSE 0 END) AS wins,
+    SUM(CASE WHEN result = 'L' THEN 1 ELSE 0 END) AS losses
+FROM matches
+JOIN teams ON teams.team_id = matches.team_id
+GROUP BY team_name;
+
+
+-- ------------------------------------------------------------
+-- 3. Date functions — strftime()
+-- Group matches by month/year without touching the raw date column.
+-- ------------------------------------------------------------
+SELECT
+    strftime('%Y-%m', match_date) AS month,
+    COUNT(*) AS matches_played
+FROM matches
+GROUP BY month
+ORDER BY month;
+
+
+-- ------------------------------------------------------------
+-- 4. String functions — SUBSTR(), UPPER(), LOWER()
+-- Build a short player code and normalize position casing.
+-- ------------------------------------------------------------
+SELECT
+    name,
+    UPPER(SUBSTR(name, 1, 3)) AS code,
+    LOWER(position) AS position_clean
+FROM players
+LIMIT 5;
+
+
+-- ------------------------------------------------------------
+-- 5. String concatenation — ||
+-- Combine two columns into one readable label.
+-- ------------------------------------------------------------
+SELECT
+    name || ' (' || position || ')' AS player_tag
+FROM players
+ORDER BY name;
+
+
+-- ------------------------------------------------------------
+-- 6. Mini Project — Monthly Performance Report
+-- Combine CASE WHEN (conditional aggregation) with a date function
+-- (month grouping) in a single query: this is the exact shape of a
+-- reporting query used in freelance / analyst dashboard work.
+-- ------------------------------------------------------------
+SELECT
+    strftime('%Y-%m', match_date) AS month,
+    SUM(CASE WHEN result = 'W' THEN 1 ELSE 0 END) AS wins,
+    SUM(CASE WHEN result = 'L' THEN 1 ELSE 0 END) AS losses,
+    SUM(CASE WHEN result = 'D' THEN 1 ELSE 0 END) AS draws
+FROM matches
+GROUP BY month
+ORDER BY month;
