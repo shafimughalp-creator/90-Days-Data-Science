@@ -1,92 +1,78 @@
-IyBPVVRFUiBKT0lOcwoKIyMgUXVpY2sgT3ZlcnZpZXcKLSAqKlRvcGljOioq
-IE9VVEVSIEpPSU5zIChMRUZULCBSSUdIVCwgRlVMTCkgaW4gU1FMCi0gKipX
-aGF0IEkgbGVhcm5lZDoqKiBob3cgdG8ga2VlcCAidW5tYXRjaGVkIiByb3dz
-IGluIGEgam9pbiBpbnN0ZWFkIG9mIHNpbGVudGx5IGRyb3BwaW5nIHRoZW0s
-IGFuZCBob3cgdG8gdXNlIHRoYXQgdG8gZmluZCBtaXNzaW5nIGRhdGEgKHBs
-YXllcnMgd2l0aCBubyB0ZWFtLCB0ZWFtcyB3aXRoIG5vIHBsYXllcnMpCi0g
-KipUb29sczoqKiBTUUxpdGUsIERCIEJyb3dzZXIgZm9yIFNRTGl0ZQoKIyMg
-SW50cm9kdWN0aW9uCkFuIElOTkVSIEpPSU4gb25seSBrZWVwcyByb3dzIHRo
-YXQgbWF0Y2ggb24gYm90aCBzaWRlcyDigJQgYW55dGhpbmcgdW5tYXRjaGVk
-IGp1c3QgZGlzYXBwZWFycy4gVGhhdCdzIGEgcHJvYmxlbSB3aGVuIHRoZSB1
-bm1hdGNoZWQgcm93cyBhcmUgZXhhY3RseSB3aGF0IHlvdSBuZWVkIHRvIHNl
-ZSAoYSBmcmVlIGFnZW50IHdpdGggbm8gdGVhbSwgYSBjbHViIHdpdGggYW4g
-ZW1wdHkgcm9zdGVyKS4gT1VURVIgSk9JTnMgc29sdmUgdGhpcyBieSBrZWVw
-aW5nIHRob3NlIHJvd3MgYW5kIGZpbGxpbmcgdGhlIG1pc3Npbmcgc2lkZSB3
-aXRoIGBOVUxMYC4KCiMjIERlZmluaXRpb25zCi0gKipPVVRFUiBKT0lOKiog
-4oCUIGEgam9pbiB0aGF0IHByZXNlcnZlcyB1bm1hdGNoZWQgcm93cyBmcm9t
-IG9uZSBvciBib3RoIHRhYmxlcywgZmlsbGluZyB0aGUgb3RoZXIgc2lkZSB3
-aXRoIGBOVUxMYC4KLSAqKkxFRlQgSk9JTioqIOKAlCBrZWVwcyBldmVyeSBy
-b3cgZnJvbSB0aGUgZmlyc3QgKGxlZnQpIHRhYmxlLgotICoqUklHSFQgSk9J
-TioqIOKAlCBrZWVwcyBldmVyeSByb3cgZnJvbSB0aGUgc2Vjb25kIChyaWdo
-dCkgdGFibGUuCi0gKipGVUxMIE9VVEVSIEpPSU4qKiDigJQga2VlcHMgZXZl
-cnkgcm93IGZyb20gYm90aCB0YWJsZXMuCi0gKipBbnRpLWpvaW4qKiDigJQg
-TEVGVC9SSUdIVCBKT0lOICsgYFdIRVJFIC4uLiBJUyBOVUxMYCwgdXNlZCB0
-byBpc29sYXRlIG9ubHkgdGhlIHVubWF0Y2hlZCByb3dzLgotICoqQ09BTEVT
-Q0UoKSoqIOKAlCByZXR1cm5zIHRoZSBmaXJzdCBub24tTlVMTCB2YWx1ZSBm
-cm9tIGEgbGlzdDsgdXNlZCB0byByZXBsYWNlIE5VTExzIHdpdGggYSByZWFk
-YWJsZSBkZWZhdWx0LgoKIyMgSW1wb3J0YW50IENvbmNlcHRzCi0gVGFibGUg
-b3JkZXIgbWF0dGVyczogaW4gYEZST00gcGxheWVycyBwIExFRlQgSk9JTiB0
-ZWFtcyB0YCwgYHBsYXllcnNgIGlzICJsZWZ0LCIgYHRlYW1zYCBpcyAicmln
-aHQuIgotIEFueSBSSUdIVCBKT0lOIGNhbiBiZSByZXdyaXR0ZW4gYXMgYSBM
-RUZUIEpPSU4gYnkgc3dhcHBpbmcgdGFibGUgb3JkZXIuCi0gU1FMaXRlIG9u
-bHkgYWRkZWQgUklHSFQgSk9JTiBhbmQgRlVMTCBPVVRFUiBKT0lOIHN1cHBv
-cnQgaW4gdmVyc2lvbiAzLjM5Ky4KLSBgPSBOVUxMYCBuZXZlciBldmFsdWF0
-ZXMgdHJ1ZSDigJQgYWx3YXlzIHVzZSBgSVMgTlVMTGAgLyBgSVMgTk9UIE5V
-TExgLgotIEZpbHRlcmluZyBhbiBvdXRlciBqb2luIGluIGBXSEVSRWAgKGlu
-c3RlYWQgb2YgYE9OYCkgY2FuIHNpbGVudGx5IHR1cm4gaXQgYmFjayBpbnRv
-IGFuIElOTkVSIEpPSU4gYnkgZHJvcHBpbmcgdGhlIE5VTEwgcm93cy4KCiMj
-IFN0ZXAtYnktU3RlcCBFeHBsYW5hdGlvbgoxLiBEZWNpZGUgd2hpY2ggdGFi
-bGUncyB1bm1hdGNoZWQgcm93cyB5b3UgbmVlZCB0byBrZWVwIOKAlCB0aGF0
-IGRlY2lkZXMgTEVGVCB2cyBSSUdIVC4KMi4gV3JpdGUgdGhlIEpPSU4gd2l0
-aCB0aGUgbWF0Y2hpbmcgY29sdW1uIGluIGBPTmAuCjMuIElmIHlvdSBuZWVk
-ICpvbmx5KiB0aGUgdW5tYXRjaGVkIHJvd3MsIGFkZCBgV0hFUkUgPHJpZ2h0
-X3RhYmxlPi48a2V5PiBJUyBOVUxMYCAoYW50aS1qb2luKS4KNC4gSWYgeW91
-IG5lZWQgZXZlcnkgcm93IGZyb20gYm90aCB0YWJsZXMsIHVzZSBgRlVMTCBP
-VVRFUiBKT0lOYC4KNS4gT3B0aW9uYWxseSB3cmFwIE5VTEwtcHJvbmUgY29s
-dW1ucyBpbiBgQ09BTEVTQ0UoKWAgZm9yIGEgY2xlYW5lciBvdXRwdXQuCgoj
-IyBFeGFtcGxlcwpgYGBzcWwKLS0gQWxsIHBsYXllcnMsIHRlYW0gb3Igbm8g
-dGVhbQpTRUxFQ1QgcC5wbGF5ZXJfbmFtZSwgcC5nb2FscywgdC50ZWFtX25h
-bWUKRlJPTSBwbGF5ZXJzIHAKTEVGVCBKT0lOIHRlYW1zIHQgT04gcC50ZWFt
-X2lkID0gdC50ZWFtX2lkOwoKLS0gT25seSBwbGF5ZXJzIHdpdGggbm8gdGVh
-bSAoYW50aS1qb2luKQpTRUxFQ1QgcC5wbGF5ZXJfbmFtZSwgcC5nb2FscwpG
-Uk9NIHBsYXllcnMgcApMRUZUIEpPSU4gdGVhbXMgdCBPTiBwLnRlYW1faWQg
-PSB0LnRlYW1faWQKV0hFUkUgdC50ZWFtX2lkIElTIE5VTEw7CgotLSBPbmx5
-IHRlYW1zIHdpdGggbm8gcGxheWVycyAoYW50aS1qb2luLCByaWdodCBzaWRl
-KQpTRUxFQ1QgdC50ZWFtX25hbWUKRlJPTSBwbGF5ZXJzIHAKUklHSFQgSk9J
-TiB0ZWFtcyB0IE9OIHAudGVhbV9pZCA9IHQudGVhbV9pZApXSEVSRSBwLnBs
-YXllcl9pZCBJUyBOVUxMOwoKLS0gRXZlcnlvbmUsIGVpdGhlciBkaXJlY3Rp
-b24KU0VMRUNUIHAucGxheWVyX25hbWUsIHQudGVhbV9uYW1lCkZST00gcGxh
-eWVycyBwCkZVTEwgT1VURVIgSk9JTiB0ZWFtcyB0IE9OIHAudGVhbV9pZCA9
-IHQudGVhbV9pZDsKYGBgCgojIyBDb21tb24gTWlzdGFrZXMKLSBGaWx0ZXJp
-bmcgYW4gb3V0ZXIgam9pbiBpbiBgV0hFUkVgIGluc3RlYWQgb2YgYE9OYCwg
-d2hpY2ggdHVybnMgaXQgYmFjayBpbnRvIGFuIElOTkVSIEpPSU4uCi0gVXNp
-bmcgYD0gTlVMTGAgaW5zdGVhZCBvZiBgSVMgTlVMTGAuCi0gRm9yZ2V0dGlu
-ZyB3aGljaCB0YWJsZSBpcyAibGVmdCIgYW5kIGdldHRpbmcgdGhlIHdyb25n
-IHVubWF0Y2hlZCByb3dzIGtlcHQuCi0gQXNzdW1pbmcgUklHSFQgSk9JTiAv
-IEZVTEwgT1VURVIgSk9JTiBhcmUgc3VwcG9ydGVkIGV2ZXJ5d2hlcmUgKE15
-U1FMIGhhcyBubyBGVUxMIE9VVEVSIEpPSU47IG9sZGVyIFNRTGl0ZSBoYXMg
-bmVpdGhlcikuCgojIyBJbnRlcnZpZXcgUXVlc3Rpb25zCjEuIFdoYXQncyB0
-aGUgZGlmZmVyZW5jZSBiZXR3ZWVuIElOTkVSIEpPSU4gYW5kIExFRlQgSk9J
-Tj8KMi4gSG93IHdvdWxkIHlvdSBmaW5kIGFsbCBjdXN0b21lcnMgd2hvIGhh
-dmUgbmV2ZXIgcGxhY2VkIGFuIG9yZGVyPwozLiBJcyBSSUdIVCBKT0lOIGV2
-ZXIgc3RyaWN0bHkgbmVjZXNzYXJ5Pwo0LiBXaHkgbWlnaHQgYSBMRUZUIEpP
-SU4gcmV0dXJuIG1vcmUgcm93cyB0aGFuIHRoZSBsZWZ0IHRhYmxlIGhhcz8K
-NS4gSG93IGRvIHlvdSBzaW11bGF0ZSBGVUxMIE9VVEVSIEpPSU4gb24gYSBk
-YXRhYmFzZSB0aGF0IGRvZXNuJ3Qgc3VwcG9ydCBpdD8KCiMjIEtleSBUYWtl
-YXdheXMKLSBPVVRFUiBKT0lOcyBrZWVwIHVubWF0Y2hlZCByb3dzOyBJTk5F
-UiBKT0lOIGRyb3BzIHRoZW0uCi0gTEVGVC9SSUdIVCBkZWNpZGUgKndoaWNo
-KiB0YWJsZSdzIHVubWF0Y2hlZCByb3dzIHN1cnZpdmU7IEZVTEwga2VlcHMg
-Ym90aC4KLSBUaGUgYW50aS1qb2luIHBhdHRlcm4gKGBPVVRFUiBKT0lOYCAr
-IGBJUyBOVUxMYCkgaXMgdGhlIHN0YW5kYXJkIHdheSB0byBmaW5kICJtaXNz
-aW5nIiByZWxhdGlvbnNoaXBzLgotIE5VTEwgcmVxdWlyZXMgYElTIE5VTExg
-LCBuZXZlciBgPSBOVUxMYC4KCiMjIFN1bW1hcnkKVG9kYXkncyBzZXNzaW9u
-IGNvdmVyZWQgdGhlIHRocmVlIE9VVEVSIEpPSU4gdHlwZXMgdXNpbmcgYSBm
-b290YmFsbCBzcXVhZC9yb3N0ZXIgZGF0YXNldCAoRkMgTGFob3JlIExpb25z
-IGFuZCBmcmllbmRzKSwgdmVyaWZpZWQgYWdhaW5zdCBhIHJlYWwgU1FMaXRl
-IGRhdGFiYXNlIHdpdGggYSBnZW51aW5lbHkgdW5tYXRjaGVkIHBsYXllciAo
-RnJlZSBBZ2VudCBaYWlkKSBhbmQgYSBnZW51aW5lbHkgZW1wdHktcm9zdGVy
-ZWQgdGVhbSAoSXNsYW1hYmFkIEZhbGNvbnMpLiBUaGUgY29yZSBza2lsbCBp
-cyB0aGUgYW50aS1qb2luIHBhdHRlcm4g4oCUIExFRlQgb3IgUklHSFQgSk9J
-TiBjb21iaW5lZCB3aXRoIGBJUyBOVUxMYCDigJQgd2hpY2ggaXMgb25lIG9m
-IHRoZSBtb3N0IGNvbW1vbmx5IGFza2VkIFNRTCBpbnRlcnZpZXcgcGF0dGVy
-bnMuCg==
+# OUTER JOINs
+
+## Quick Overview
+- **Topic:** OUTER JOINs (LEFT, RIGHT, FULL) in SQL
+- **What I learned:** how to keep "unmatched" rows in a join instead of silently dropping them, and how to use that to find missing data (players with no team, teams with no players)
+- **Tools:** SQLite, DB Browser for SQLite
+
+## Introduction
+An INNER JOIN only keeps rows that match on both sides — anything unmatched just disappears. That's a problem when the unmatched rows are exactly what you need to see (a free agent with no team, a club with an empty roster). OUTER JOINs solve this by keeping those rows and filling the missing side with `NULL`.
+
+## Definitions
+- **OUTER JOIN** — a join that preserves unmatched rows from one or both tables, filling the other side with `NULL`.
+- **LEFT JOIN** — keeps every row from the first (left) table.
+- **RIGHT JOIN** — keeps every row from the second (right) table.
+- **FULL OUTER JOIN** — keeps every row from both tables.
+- **Anti-join** — LEFT/RIGHT JOIN + `WHERE ... IS NULL`, used to isolate only the unmatched rows.
+- **COALESCE()** — returns the first non-NULL value from a list; used to replace NULLs with a readable default.
+
+## Important Concepts
+- Table order matters: in `FROM players p LEFT JOIN teams t`, `players` is "left," `teams` is "right."
+- Any RIGHT JOIN can be rewritten as a LEFT JOIN by swapping table order.
+- SQLite only added RIGHT JOIN and FULL OUTER JOIN support in version 3.39+.
+- `= NULL` never evaluates true — always use `IS NULL` / `IS NOT NULL`.
+- Filtering an outer join in `WHERE` (instead of `ON`) can silently turn it back into an INNER JOIN by dropping the NULL rows.
+
+## Step-by-Step Explanation
+1. Decide which table's unmatched rows you need to keep — that decides LEFT vs RIGHT.
+2. Write the JOIN with the matching column in `ON`.
+3. If you need *only* the unmatched rows, add `WHERE <right_table>.<key> IS NULL` (anti-join).
+4. If you need every row from both tables, use `FULL OUTER JOIN`.
+5. Optionally wrap NULL-prone columns in `COALESCE()` for a cleaner output.
+
+## Examples
+```sql
+-- All players, team or no team
+SELECT p.player_name, p.goals, t.team_name
+FROM players p
+LEFT JOIN teams t ON p.team_id = t.team_id;
+
+-- Only players with no team (anti-join)
+SELECT p.player_name, p.goals
+FROM players p
+LEFT JOIN teams t ON p.team_id = t.team_id
+WHERE t.team_id IS NULL;
+
+-- Only teams with no players (anti-join, right side)
+SELECT t.team_name
+FROM players p
+RIGHT JOIN teams t ON p.team_id = t.team_id
+WHERE p.player_id IS NULL;
+
+-- Everyone, either direction
+SELECT p.player_name, t.team_name
+FROM players p
+FULL OUTER JOIN teams t ON p.team_id = t.team_id;
+```
+
+## Common Mistakes
+- Filtering an outer join in `WHERE` instead of `ON`, which turns it back into an INNER JOIN.
+- Using `= NULL` instead of `IS NULL`.
+- Forgetting which table is "left" and getting the wrong unmatched rows kept.
+- Assuming RIGHT JOIN / FULL OUTER JOIN are supported everywhere (MySQL has no FULL OUTER JOIN; older SQLite has neither).
+
+## Interview Questions
+1. What's the difference between INNER JOIN and LEFT JOIN?
+2. How would you find all customers who have never placed an order?
+3. Is RIGHT JOIN ever strictly necessary?
+4. Why might a LEFT JOIN return more rows than the left table has?
+5. How do you simulate FULL OUTER JOIN on a database that doesn't support it?
+
+## Key Takeaways
+- OUTER JOINs keep unmatched rows; INNER JOIN drops them.
+- LEFT/RIGHT decide *which* table's unmatched rows survive; FULL keeps both.
+- The anti-join pattern (`OUTER JOIN` + `IS NULL`) is the standard way to find "missing" relationships.
+- NULL requires `IS NULL`, never `= NULL`.
+
+## Summary
+Today's session covered the three OUTER JOIN types using a football squad/roster dataset (FC Lahore Lions and friends), verified against a real SQLite database with a genuinely unmatched player (Free Agent Zaid) and a genuinely empty-rostered team (Islamabad Falcons). The core skill is the anti-join pattern — LEFT or RIGHT JOIN combined with `IS NULL` — which is one of the most commonly asked SQL interview patterns.
